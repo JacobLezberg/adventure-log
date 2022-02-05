@@ -3,69 +3,104 @@
     <img src="https://img.shields.io/github/license/JacobLezberg/adventure-log"></img></a>
   <a href="https://github.com/JacobLezberg/adventure-log/commits/main">
     <img src="https://img.shields.io:/github/last-commit/jacoblezberg/adventure-log"></img></a>
-  <a href="https://github.com/JacobLezberg/adventure-log/actions/workflows/pages/pages-build-deployment">
-    <img src="https://github.com/JacobLezberg/adventure-log/actions/workflows/pages/pages-build-deployment/badge.svg"></img></a>
+  <a href="https://github.com/JacobLezberg/adventure-log/actions/">
+    <img src="https://img.shields.io/github/workflow/status/jacoblezberg/adventure-log/ci?label=workflow"></a>
 </p>
 
 # D&D Adventure Log
 
-This project is based on the wonderful [Mkdocs Obsidian Template](https://mara-li.github.io/mkdocs_obsidian_template/) from [Mara-Li](https://github.com/Mara-Li). I opted for the automation built into GitHub Pages for continuous deployment.
+This project is based on the wonderful [MkDocs Obsidian Template](https://mara-li.github.io/mkdocs_obsidian_template/) from [Mara-Li](https://github.com/Mara-Li).
+
 
 ## How to View
 Visit [The Adventure Log](https://jacoblezberg.github.io/adventure-log/) to see the content!
 
+
 ## How to Contribute
-Whenever a commit is pushed to the `main` branch of this repository, GitHub invokes Mkdocs (a static site generator) which processes all of the Markdown files to build the website. Necessary software is as follows:
+Whenever a commit is pushed to the `main` branch of this repository, GitHub invokes MkDocs (a documentation-focused static site generator) which processes all of the Markdown files to build the website. Therefore, you don't need any tools except git, but there is some other software that would be helpful.
 
 ### Required
 - [Git](https://git-scm.com/downloads)
 
 ### Recommended
 - [Obsidian](https://obsidian.md/) for creating and editing files
-- [Python](https://www.python.org/downloads/) for local previews (and optionally use of the `obs2mk` script)
+- [Python](https://www.python.org/downloads/) for local previews (and for usage of the `obs2mk` script if desired)
+- [VSCode](https://code.visualstudio.com/Download) for editing YAML, Markdown, or other misc. files
 
 Once you've installed the tools, 
 1. Clone this repo. One way this can be done is by executing the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
 1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled.
-1. Make any edits you wish (more on that later).
+1. Make any edits you wish (more on that later). All of the D&D content should be inside the `docs` folder (`assets` is part of MkDocs Material theme, so don't worry about that for now).
 1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
+   1. You must install the python packages in order to run `mkdocs` locally. Required packages can all be installed at once with `py -m pip install -r requirements.txt`
+   1. <details>
+      <summary>Full list of Python packages (from template)</summary>
+      
+      - [MkDocs](https://www.mkdocs.org/getting-started/) : `pip install mkdocs`
+      - [Material MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) using `pip install mkdocs-material`
+      - [Mermaid2](https://github.com/fralau/mkdocs-mermaid2-plugin) with `pip install mkdocs-mermaid2-plugin`.
+      - [Roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) : `pip install mkdocs-roamlinks-plugin`
+      - [mkdocs-obsidian](https://pypi.org/project/obs2mk/) : `pip install obs2mk`
+      - [mkdocs-awesome-pages](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) : `pip install mkdocs-awesome-pages-plugin`
+      - [mkdocs-tooltipster](https://github.com/Mara-Li/mkdocs-tooltipster-links-plugin)
+      - [mkdocs-embed-file-plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins)
+      </details>
 1. Send your changes to the remote repository:
    1. `git status` will list the created, modified, and deleted files
-   1. `git add X` will add `X` to the "staging area" (if `X` is `.` it will add all changed files)
+   1. `git add X` will add file `X` to the "staging area" (if `X` is `.` it will add all changed files)
    1. `git commit -m "<message>"` will "commit" the changes to the staged files with a description
    1. `git push` will push your local commit(s) to the remote repository. The power of git comes from its branch management, but we probably won't need that since this project isn't code-based. By default you will be on the `main` branch, and if you don't specify a target branch your commits will be pushed to the upstream of your current branch (i.e. local `main` --> remote `main`)
-1. GitHub (via Mkdocs) will automatically regenerate the website. Give it a minute to redeploy before expecting changes to be visible (or check the status badge at the top of this `README`)
-
-### Customization
-The Mkdocs Material theme has settings in the `mkdocs.yml` file.
-- If you want to change the color palette, [refer to this](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/).
-- The logo, favicons, js, and css can all be found in the `docs/assets` folder
-- Mkdocs also has hundreds of plug-ins ("extensions") that I haven't played around with at all [and can be found here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
-
----
-You can install all package with `py -m pip install -r requirements.txt`
-
-<details><summary><u><b>List of Python packages</u></b></summary>
-
-
-- [Mkdocs](https://www.mkdocs.org/getting-started/) : `pip install mkdocs`
-- [Material Mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/) using `pip install mkdocs-material`
-- [Mermaid2](https://github.com/fralau/mkdocs-mermaid2-plugin) with `pip install mkdocs-mermaid2-plugin`.
-- [Roamlinks](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) : `pip install mkdocs-roamlinks-plugin`
-- [mkdocs-obsidian](https://pypi.org/project/obs2mk/) : `pip install obs2mk`
-- [mkdocs-awesome-pages](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) : `pip install mkdocs-awesome-pages-plugin`
-- [mkdocs-tooltipster](https://github.com/Mara-Li/mkdocs-tooltipster-links-plugin)
-- [mkdocs-embed-file-plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins)
-
-</details>
+1. GitHub (via MkDocs) will automatically regenerate the website. Give it a minute to redeploy (or check the status of the `github-pages` environment on the right hand side of this page) before expecting changes to be visible 
 
 
 ## Customization
+The MkDocs Material theme has settings in the `mkdocs.yml` file.
+- If you want to change the color palette, [refer to this](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/).
+- The logo, favicons, js, and css can all be found in the `docs/assets` folder
+- MkDocs also has hundreds of plug-ins ("extensions") that I haven't played around with at all [and can be found here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
+- There is lots of useful documentation [here](https://squidfunk.github.io/mkdocs-material/) under the `Setup` and `Getting Started` tabs.
 
-To try your site without online, use `mkdocs serve`.
-You can publish your website using [Github Page](https://pages.github.com/) using the `gh-page` branch. This branch is pulled by the `.workflow` file, so don't worry about it.
 
-Now you have two choices : move the file you want in `docs` (and the subfolder you want) or you can use `Mkdocs_Obsidian`.
+## Editing
+I made a few file templates in the `docs/templates` folder corresponding to different types of pages. The best way to use these is to create a new (blank) note in Obsidian, then press `Ctrl+T` to open the "Insert Template" menu, and select the desired template. These should help keep layouts and frontmatter consistent.
+
+### Frontmatter
+You can add a number of different properties to the frontmatter of a markdown file which essentially work as metadata but can control the way these tools interact with the files. Frontmatter must be at the top of the file and formatted in one of the following ways:
+```
+---
+key: value
+key: [value 1, value 2]
+key:
+  - value a
+  - value b
+---
+```
+
+#### Obsidian [(Documentation)](https://help.obsidian.md/Advanced+topics/YAML+front+matter)
+- `aliases`: Alternate names for Obsidian to recognize and suggest links. For example, we have a page named `Glasstaff.md` but we want Obsidian to suggest backlinks to that page from any occurrence of `Iarno Albrek`, as they are the same character.
+- `tags`: Tags for searching/sorting published content. [MkDocs *should* be able to use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
+- `cssclass`: I haven't played with this. Might be better to ignore and just handle any CSS overrides through MkDocs.
+
+#### MkDocs [(Documentation)](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
+- `template`: Note that this is an HTML template, not a Markdown template
+- `title`: An override for the displayed name of a page (which would normally be the name of the markdown file). Also changes it in navigation. Good for letting Obsidian links be intuitive without having ugly URLs with spaces in them).
+- `description`: I'm not entirely sure how this is used. If it's for SEO, it's useless for us.
+- `image`: Adds an image (needs <relative_link.format>). I'm not sure where/how this appears.
+- `tags`: See above.
+
+#### MkDocs Obsidian Script (Included as part of the MkDocs Obsidian Template)
+- `category`: Alternate way to set folder structure. The special value `hidden` will exclude the file from the generated site.
+- `share`: Seems like it can act as a whitelist for publishing files, but we're publishing the vault contents by default so no need for this.
+- `update`: Using the value `false` seems like it will lock the file from updating. Not very useful.
+
+<details>
+<summary>Stuff from original README I haven't cleaned up yet</summary>
+
+## Script
+The script need one key, to share the file. You can configure the key in the configuration of the script.
+
+Note : With `awesome-pages` you can hide folder from navigation. To hide a file, just use `hidden` in `category` (as `category: hidden`). Links, image will work without problem.
+
 
 ## Obsidian compatibility
 So, with the configuration I have done, the mkdocs support :
@@ -80,7 +115,7 @@ So, with the configuration I have done, the mkdocs support :
 I didn't found a way to embed file with wiki links for the moment. Because of the strange behavior of roam links, these embedded file will be rendered as image. The script will care of this bug. 
 
 
-# Mkdocs Obsidian
+# MkDocs Obsidian
 ## Utilities and interest
 *A vast party of the script is taken from my previous project, YAFPA*
 
@@ -245,46 +280,6 @@ You can use :
 - [Obsidian Customizable Menu](https://github.com/kzhovn/obsidian-customizable-menu)  
 To have a button to share your file directly in Obsidian !
 
-#### Metacopy
-Using [metacopy](https://github.com/Mara-Li/obsidian-metacopy) you can quickly copy a link to a shared page, without using this option (so, yes, the script does not edit your source file !). 
-To create a link, you need to configure :
- 1. `category` in `key`
- 2. Add your `set_url` in `base link`
- 3. Add `category` in `key link`
+If you have more questions, don't forget to read the [Q&A](https://github.com/Mara-Li/mkdocs_obsidian_template/wiki/Q&A/) !
 
-Also, you can remove the metacopy from your file menu using a key, so you can active metacopy only for `share: true`. Metacopy support also the `paginations.index`. 
-
-The final configuration of metacopy for mkdocs_obsidian will be :
-![](screenshot/metacopy3.png)
-![](screenshot/metacopy2.png)
-
-So, in the end, a menu will appear on file with `share: true` and a `category` configured. This menu is on the left click and the file-menu. You can quickly copy a link from there, like a google or notion sharing link !
-
-[Here is a demo](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d) : 
-
-[![click to get a video !](screenshot/demo.gif)](https://www.loom.com/share/88c64da2ba194e219578d5911fb8e08d)
-
-# Frontmatter and option
-## Script
-The script need one key, to share the file. You can configure the key in the configuration of the script.
-If you want a folder structure in `docs`, you need to use the `category` keys, with the form of `path/path`. You can also block a file to update with `update: false`.
-Note : With `awesome-pages` you can hide folder from navigation. To hide a file, just use `hidden` in `category` (as `category: hidden`). Links, image will work without problem.
-
-## Mkdocs
-Material give you the possibility to add SEO tags with :
-- `description`  
-- `title` (will change also the title in the navigation)
-- `image`: Add an image (don't forget the format) / Need to be a relative link.
-
-## Template
-So, the final frontmatter template is :
-```yaml
----
-title:
-share:
-description:
-category:
----
-```
-
-If you have more question, don't forget to read the [Q&A](https://github.com/Mara-Li/mkdocs_obsidian_template/wiki/Q&A/) !
+</details>
