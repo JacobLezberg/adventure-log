@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Quest Tracker.md",
+            "file": "notes/index.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Quest Tracker.md",
+                "file": "notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Quest Tracker.md"
+                "file": "notes/index.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Quest Tracker.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "c8f85bdf522001aa",
   "lastOpenFiles": [
+    "notes/index.md",
     "notes/Quest Tracker.md",
     "notes/index.md",
     "notes/The Ship's Log.md",
@@ -139,7 +140,6 @@
     "index.md",
     "hidden/private.md",
     "hidden/old_index.md",
-    "pages/The Ship's Log.md",
-    "pages/enemies/The Black Spider.md"
+    "pages/The Ship's Log.md"
   ]
 }
