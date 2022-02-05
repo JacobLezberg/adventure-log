@@ -1,40 +1,53 @@
-The page for this is https://jacoblezberg.github.io/adventure-log/
-
-
-
 <p align="center">
-	<a href="https://github.com/Mara-Li/mkdocs_obsidian_publish"><img src="https://img.shields.io/github/license/Mara-Li/YAFPA-python"></img></a>
-	<a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/obs2mk"></img></a>
-	<a href="https://pypi.org/project/obs2mk/"><img src="https://img.shields.io/pypi/v/obs2mk"></img></a>
-	<a href="https://obsidian.md/"><img src="https://img.shields.io/badge/Auxiliary%20Tool-Obsidian-blueviolet"></img></a>
-	<a href="https://github.com/Mara-Li/mkdocs_obsidian_template/wiki/Q&A/"><img src="https://img.shields.io/badge/-Q%26A-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMkM2LjQ4NiAyIDIgNi40ODYgMiAxMnM0LjQ4NiAxMCAxMCAxMCAxMC00LjQ4NiAxMC0xMFMxNy41MTQgMiAxMiAyem0wIDE4Yy00LjQxMSAwLTgtMy41ODktOC04czMuNTg5LTggOC04IDggMy41ODkgOCA4LTMuNTg5IDgtOCA4eiIvPjxwYXRoIGQ9Ik0xMSAxMWgydjZoLTJ6bTAtNGgydjJoLTJ6Ii8+PC9zdmc+"></img></a>
+	<a href="https://github.com/JacobLezberg/adventure-log/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/JacobLezberg/adventure-log"></img></a>
+  <a href="https://github.com/JacobLezberg/adventure-log/commits/main">
+    <img src="https://img.shields.io:/github/last-commit/jacoblezberg/adventure-log"></img></a>
+  <a href="https://github.com/JacobLezberg/adventure-log/actions/workflows/pages/pages-build-deployment">
+    <img src="https://github.com/JacobLezberg/adventure-log/actions/workflows/pages/pages-build-deployment/badge.svg"></img></a>
 </p>
 
-![](screenshot/script_demo.gif)
+# D&D Adventure Log
 
-# Mkdocs Obsidian
-Mkdocs Obsidian is an association between a python script and a Material mkdocs template to get a personal wiki site based on your Obsidian Vault.
+This project is based on the wonderful [Mkdocs Obsidian Template](https://mara-li.github.io/mkdocs_obsidian_template/) from [Mara-Li](https://github.com/Mara-Li). I opted for the automation built into GitHub Pages for continuous deployment.
+
+## How to View
+Visit [The Adventure Log](https://jacoblezberg.github.io/adventure-log/) to see the content!
+
+## How to Contribute
+Whenever a commit is pushed to the `main` branch of this repository, GitHub invokes Mkdocs (a static site generator) which processes all of the Markdown files to build the website. Necessary software is as follows:
+
+### Required
+- [Git](https://git-scm.com/downloads)
+
+### Recommended
+- [Obsidian](https://obsidian.md/) for creating and editing files
+- [Python](https://www.python.org/downloads/) for local previews (and optionally use of the `obs2mk` script)
+
+Once you've installed the tools, 
+1. Clone this repo. One way this can be done is by executing the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
+1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled.
+1. Make any edits you wish (more on that later).
+1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
+1. Send your changes to the remote repository:
+   1. `git status` will list the created, modified, and deleted files
+   1. `git add X` will add `X` to the "staging area" (if `X` is `.` it will add all changed files)
+   1. `git commit -m "<message>"` will "commit" the changes to the staged files with a description
+   1. `git push` will push your local commit(s) to the remote repository. The power of git comes from its branch management, but we probably won't need that since this project isn't code-based. By default you will be on the `main` branch, and if you don't specify a target branch your commits will be pushed to the upstream of your current branch (i.e. local `main` --> remote `main`)
+1. GitHub (via Mkdocs) will automatically regenerate the website. Give it a minute to redeploy before expecting changes to be visible (or check the status badge at the top of this `README`)
+
+### Customization
+The Mkdocs Material theme has settings in the `mkdocs.yml` file.
+- If you want to change the color palette, [refer to this](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/).
+- The logo, favicons, js, and css can all be found in the `docs/assets` folder
+- Mkdocs also has hundreds of plug-ins ("extensions") that I haven't played around with at all [and can be found here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
+
+---
+You can install all package with `py -m pip install -r requirements.txt`
+
+<details><summary><u><b>List of Python packages</u></b></summary>
 
 
-<p align="center"><a href="https://mara-li.github.io/mkdocs_obsidian_template/">Mkdocs Obsidian Template </a> </p>
-
-<p align="center"><a href="https://www.mara-li.fr">Owlly Seed (My Blog ; In French)</a></p>
-
-<details><summary><u><b>Screenshot</u></b> </summary>
-
-![image_1](screenshot/image_1.png)
-![image_2](screenshot/image_2.png)
-![image_3](screenshot/image_3.png)
-![image_4](screenshot/image_4.png)
-
-</details>
-
-## Pre-requiries
-
-<details><summary><u><b>Requirements</u></b></summary>
-	
-- [Git](https://git-scm.com/)
-- [Python](https://www.python.org/) and Pip
 - [Mkdocs](https://www.mkdocs.org/getting-started/) : `pip install mkdocs`
 - [Material Mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/) using `pip install mkdocs-material`
 - [Mermaid2](https://github.com/fralau/mkdocs-mermaid2-plugin) with `pip install mkdocs-mermaid2-plugin`.
@@ -44,23 +57,10 @@ Mkdocs Obsidian is an association between a python script and a Material mkdocs 
 - [mkdocs-tooltipster](https://github.com/Mara-Li/mkdocs-tooltipster-links-plugin)
 - [mkdocs-embed-file-plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins)
 
-    </details>
-	
-You can install all package with `pip install -r requirements.txt`
+</details>
 
-## Get started
-First, create the template in [GitHub](https://github.com/Mara-Li/mkdocs_obsidian_template) and download it with `git` (as `git clone git@github.com:your_username/blog_name.git`)
 
 ## Customization
-
-To make it your, you need to change, in `mkdocs.yml`
-- `site_name`,
-- `site_description` 
-- `site_url`
-- The logo and favicons
-- If you want, the palette, use [color scheme from material](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) and edit `scheme` and `accent`.
-
-The material's theme includes a lot of parameters and personalization, so don't forget to check to make the site yours! Also, there is a hundred of plug-ins (“extension”) for mkdocs so don't hesitate to give an eye! [You will find a lot here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
 
 To try your site without online, use `mkdocs serve`.
 You can publish your website using [Github Page](https://pages.github.com/) using the `gh-page` branch. This branch is pulled by the `.workflow` file, so don't worry about it.

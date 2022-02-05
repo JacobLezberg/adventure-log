@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "quests.md",
+            "file": "sessions/Session 1.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quests.md",
+                "file": "sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quests.md"
+                "file": "sessions/Session 1.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quests.md",
+                "file": "sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
   },
   "active": "dafef1133122cdd9",
   "lastOpenFiles": [
+    "sessions/Session 1.md",
+    "sessions/Session 0.5.md",
     "quests.md",
     "index.md",
     "hidden/old_index.md",
-    "sessions/Session 0.5.md",
     "items/Calibur.md",
     "enemies/Skeleton Giant.md",
     "templates/Session Notes.md",
     "enemies/Spectator.md",
-    "templates/PC.md",
-    "templates/NPC.md"
+    "templates/PC.md"
   ]
 }
