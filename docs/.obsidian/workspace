@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "characters/Player Characters/Kleb Fumpton.md",
+            "file": "factions/Cragmaws.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "characters/Player Characters/Kleb Fumpton.md",
+                "file": "factions/Cragmaws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "characters/Player Characters/Kleb Fumpton.md"
+                "file": "factions/Cragmaws.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "characters/Player Characters/Kleb Fumpton.md",
+                "file": "factions/Cragmaws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
   },
   "active": "dafef1133122cdd9",
   "lastOpenFiles": [
+    "factions/Cragmaws.md",
+    "factions/Redbrands.md",
+    "factions/Lozenge Gules.md",
+    "index.md",
+    "quests.md",
     "characters/Player Characters/Kleb Fumpton.md",
     "sessions/Session 1.md",
     "sessions/Session 0.5.md",
-    "quests.md",
-    "index.md",
     "hidden/old_index.md",
-    "items/Calibur.md",
-    "enemies/Skeleton Giant.md",
-    "templates/Session Notes.md",
-    "enemies/Spectator.md"
+    "items/Calibur.md"
   ]
 }

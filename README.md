@@ -4,7 +4,7 @@
   <a href="https://github.com/JacobLezberg/adventure-log/commits/main">
     <img src="https://img.shields.io:/github/last-commit/jacoblezberg/adventure-log"></img></a>
   <a href="https://github.com/JacobLezberg/adventure-log/actions/">
-    <img src="https://img.shields.io/github/workflow/status/jacoblezberg/adventure-log/ci?label=workflow"></a>
+    <img src="https://img.shields.io/github/workflow/status/jacoblezberg/adventure-log/ci"></a>
 </p>
 
 # D&D Adventure Log
@@ -29,7 +29,7 @@ Whenever a commit is pushed to the `main` branch of this repository, GitHub invo
 
 Once you've installed the tools, 
 1. Clone this repo. One way this can be done is by executing the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
-1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled.
+1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible".
 1. Make any edits you wish (more on that later). All of the D&D content should be inside the `docs` folder (`assets` is part of MkDocs Material theme, so don't worry about that for now).
 1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
    1. You must install the python packages in order to run `mkdocs` locally. Required packages can all be installed at once with `py -m pip install -r requirements.txt`
@@ -50,7 +50,7 @@ Once you've installed the tools,
    1. `git add X` will add file `X` to the "staging area" (if `X` is `.` it will add all changed files)
    1. `git commit -m "<message>"` will "commit" the changes to the staged files with a description
    1. `git push` will push your local commit(s) to the remote repository. The power of git comes from its branch management, but we probably won't need that since this project isn't code-based. By default you will be on the `main` branch, and if you don't specify a target branch your commits will be pushed to the upstream of your current branch (i.e. local `main` --> remote `main`)
-1. GitHub (via MkDocs) will automatically regenerate the website. Give it a minute to redeploy (or check the status of the `github-pages` environment on the right hand side of this page) before expecting changes to be visible 
+1. GitHub (via MkDocs) will automatically regenerate the website. Give it a minute to redeploy before expecting changes to be visible (you can check the status in detail from the `Actions` tab of Github)
 
 
 ## Customization
@@ -92,6 +92,8 @@ key:
 - `category`: Alternate way to set folder structure. The special value `hidden` will exclude the file from the generated site.
 - `share`: Seems like it can act as a whitelist for publishing files, but we're publishing the vault contents by default so no need for this.
 - `update`: Using the value `false` seems like it will lock the file from updating. Not very useful.
+
+---
 
 <details>
 <summary>Stuff from original README I haven't cleaned up yet</summary>
@@ -264,7 +266,6 @@ There are some files to customize the script :
 The script can work on any platform that support python. The script doesn't use Cpython, so don't worry about it for IOS.
 
 ### Obsidian
-→ Please use Wikilinks with “short links” (I BEG YOU)  
 
 You can integrate the script within obsidian using the nice plugin [Obsidian ShellCommands](https://github.com/Taitava/obsidian-shellcommands).  
 You could create two commands :
