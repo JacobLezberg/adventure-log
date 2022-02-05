@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sessions/Session 1.md",
+            "file": "characters/Player Characters/Kleb Fumpton.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sessions/Session 1.md",
+                "file": "characters/Player Characters/Kleb Fumpton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sessions/Session 1.md"
+                "file": "characters/Player Characters/Kleb Fumpton.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sessions/Session 1.md",
+                "file": "characters/Player Characters/Kleb Fumpton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "dafef1133122cdd9",
   "lastOpenFiles": [
+    "characters/Player Characters/Kleb Fumpton.md",
     "sessions/Session 1.md",
     "sessions/Session 0.5.md",
     "quests.md",
@@ -139,7 +140,6 @@
     "items/Calibur.md",
     "enemies/Skeleton Giant.md",
     "templates/Session Notes.md",
-    "enemies/Spectator.md",
-    "templates/PC.md"
+    "enemies/Spectator.md"
   ]
 }
