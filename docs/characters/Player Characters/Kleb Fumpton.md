@@ -17,5 +17,5 @@ Looks like manly man
 - Lorem ipsum
 
 ## Special Possessions
-- [[Calibur.jpg|Calibur]], the sword not pulled from the stone
+- [[Calibur_image.jpg|Calibur]], the sword not pulled from the stone
 - List of impressive enemies (based on damage done to Kleb). Mostly full of inanimate objects

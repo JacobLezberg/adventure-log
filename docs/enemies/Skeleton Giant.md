@@ -2,7 +2,7 @@
 aliases: []
 tags: [enemy, lost_mine_of_phandelver]
 ---
-Picture goes here!
+![[skeleton-giant.webp|400]]
 
 Lorem ipsum
 

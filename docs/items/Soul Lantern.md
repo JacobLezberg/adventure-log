@@ -1,5 +1,5 @@
 ---
-aliases: [spectral lantern]
+aliases: [spectral lantern, ghost lantern]
 tags: [item, equipment]
 ---
 Used as a weapon by [[Aliana|The Shadow]], the Soul Lantern housed more than a dozen spirits. By channeling its magic, a wielder could summon a number of the bound souls and issue them commands.

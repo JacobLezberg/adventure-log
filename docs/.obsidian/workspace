@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c8f85bdf522001aa",
+        "id": "dafef1133122cdd9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Enemy.md",
+            "file": "quests.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Enemy.md",
+                "file": "quests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Enemy.md"
+                "file": "quests.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Enemy.md",
+                "file": "quests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +129,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c8f85bdf522001aa",
+  "active": "dafef1133122cdd9",
   "lastOpenFiles": [
-    "templates/Enemy.md",
-    "enemies/King Grohl.md",
-    "enemies/Flameskull.md",
-    "enemies/Aliana.md",
-    "enemies/Glasstaff.md",
-    "enemies/Klarg.md",
-    "enemies/Nothic.md",
+    "quests.md",
+    "index.md",
+    "hidden/old_index.md",
+    "sessions/Session 0.5.md",
+    "items/Calibur.md",
+    "enemies/Skeleton Giant.md",
+    "templates/Session Notes.md",
     "enemies/Spectator.md",
-    "markdown_syntax.md",
-    "quests.md"
+    "templates/PC.md",
+    "templates/NPC.md"
   ]
 }

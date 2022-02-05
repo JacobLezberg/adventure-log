@@ -1,3 +1,7 @@
+The page for this is https://jacoblezberg.github.io/adventure-log/
+
+
+
 <p align="center">
 	<a href="https://github.com/Mara-Li/mkdocs_obsidian_publish"><img src="https://img.shields.io/github/license/Mara-Li/YAFPA-python"></img></a>
 	<a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/obs2mk"></img></a>
