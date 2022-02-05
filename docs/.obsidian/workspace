@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "20f1ffe010bbb84f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f85bdf522001aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/Quest Tracker.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf2014d79edb5f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f7a06313f2fcaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81deb57c0bb3b2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7415a4663699ca87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b992c9b7f9a4e361",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaee07ca850dd15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "340186c1d503feb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbec753d2cf2d8e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06d267590fa4428b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Quest Tracker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b756723f07a6704c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Quest Tracker.md"
+              }
+            }
+          },
+          {
+            "id": "abb5cfb7fadc3173",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Quest Tracker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c8f85bdf522001aa",
+  "lastOpenFiles": [
+    "notes/Quest Tracker.md",
+    "notes/index.md",
+    "notes/The Ship's Log.md",
+    "assets/logo/favicons.png",
+    "README.md",
+    "index.md",
+    "hidden/private.md",
+    "hidden/old_index.md",
+    "pages/The Ship's Log.md",
+    "pages/enemies/The Black Spider.md"
+  ]
+}

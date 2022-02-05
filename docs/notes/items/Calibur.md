@@ -1,0 +1,7 @@
+---
+aliases: [Swordhammer, Hammersword]
+tags: [item, equipment]
+---
+![[Calibur.jpg|150]]
+
+A sword of unknown origin but potent magical capability, Calibur was [[King Grohl]]'s weapon of choice when he was killed. It is now in [[Kleb Fumpton|Kleb]]'s possession.

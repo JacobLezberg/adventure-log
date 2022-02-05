@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "The Story So Far (Summary)",
+      "path": "pages/Plot_Summary.md"
+    },
+    {
+      "type": "file",
+      "title": "Quest Tracker",
+      "path": "pages/Quest_Tracker.md"
+    }
+  ]
+}
