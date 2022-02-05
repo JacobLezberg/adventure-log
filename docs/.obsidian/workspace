@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dafef1133122cdd9",
+        "id": "b3d1d563b73a47c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "factions/Cragmaws.md",
+            "file": "places/Tresendar Manor.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "factions/Cragmaws.md",
+                "file": "places/Tresendar Manor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "factions/Cragmaws.md"
+                "file": "places/Tresendar Manor.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "factions/Cragmaws.md",
+                "file": "places/Tresendar Manor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +129,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dafef1133122cdd9",
+  "active": "b3d1d563b73a47c3",
   "lastOpenFiles": [
-    "factions/Cragmaws.md",
-    "factions/Redbrands.md",
-    "factions/Lozenge Gules.md",
-    "index.md",
-    "quests.md",
-    "characters/Player Characters/Kleb Fumpton.md",
+    "places/Tresendar Manor.md",
+    "places/Phandalin.md",
+    "places/Cragmaw Castle.md",
     "sessions/Session 1.md",
-    "sessions/Session 0.5.md",
-    "hidden/old_index.md",
-    "items/Calibur.md"
+    "quests.md",
+    "index.md",
+    "templates/PC.md",
+    "characters/Player Characters/Rulkorf Alpensinger.md",
+    "characters/Player Characters/Rowan Chokrotsk.md",
+    "characters/Player Characters/Kleb Fumpton.md"
   ]
 }
