@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "templates/Enemy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/index.md",
+                "file": "templates/Enemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/index.md"
+                "file": "templates/Enemy.md"
               }
             }
           },
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "templates/Enemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +131,15 @@
   },
   "active": "c8f85bdf522001aa",
   "lastOpenFiles": [
-    "notes/index.md",
-    "notes/Quest Tracker.md",
-    "notes/index.md",
-    "notes/The Ship's Log.md",
-    "assets/logo/favicons.png",
-    "README.md",
-    "index.md",
-    "hidden/private.md",
-    "hidden/old_index.md",
-    "pages/The Ship's Log.md"
+    "templates/Enemy.md",
+    "enemies/King Grohl.md",
+    "enemies/Flameskull.md",
+    "enemies/Aliana.md",
+    "enemies/Glasstaff.md",
+    "enemies/Klarg.md",
+    "enemies/Nothic.md",
+    "enemies/Spectator.md",
+    "markdown_syntax.md",
+    "quests.md"
   ]
 }

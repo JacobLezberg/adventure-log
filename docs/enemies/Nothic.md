@@ -1,8 +1,8 @@
 ---
-aliases: [Nothic]
+aliases: [nothic]
 tags: [enemy, lost_mine_of_phandelver]
 ---
-![[Nothic.jpg|200]]
+![[Nothic_image.jpg|200]]
 
 I forget what his name was. The nothic is a mutated and corrupted mage with telepathic powers and a piercing, necrotic gaze. He is very agile and fights with his claws as well.
 

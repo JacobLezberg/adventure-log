@@ -1,4 +1,5 @@
 ---
+title: Quest Tracker
 ---
 An informal record of [[The Party]]'s agenda. Not all goals are equally important to all party members.
 

@@ -17,3 +17,4 @@ A human paladin, follower of Tymora, and champion of the common man
 ## Special Possessions
 - A bajillion blessed ball bearings
 - Shield with giant fricking spikes on it
+- Lightbringer mace

@@ -1,6 +1,6 @@
 site_name: D&D Adventure Log
 site_description: My Obsidian Vault published via mkdocs
-site_url: https://mara-li.github.io/mkdocs_obsidian_template
+site_url: https://jacoblezberg.github.io/adventure-log
 
 theme:
     name: 'material'
