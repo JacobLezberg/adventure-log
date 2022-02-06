@@ -78,7 +78,7 @@ key:
 
 #### Obsidian [(Documentation)](https://help.obsidian.md/Advanced+topics/YAML+front+matter)
 - `aliases`: Alternate names for Obsidian to recognize and suggest links. For example, we have a page named `Glasstaff.md` but we want Obsidian to suggest backlinks to that page from any occurrence of `Iarno Albrek`, as they are the same character.
-- `tags`: Tags for searching/sorting published content. [MkDocs *should* be able to use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
+- `tags`: Tags for searching/sorting published content. ~~[MkDocs *should* be able to use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)~~ *EDIT: That's a paid plugin for the MkDocs Material theme, so the tags are only for Obsidian*
 - `cssclass`: I haven't played with this. Might be better to ignore and just handle any CSS overrides through MkDocs.
 
 #### MkDocs [(Documentation)](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)

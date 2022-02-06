@@ -79,7 +79,6 @@ plugins:
   - awesome-pages
   - tooltipster-links
   - embed_file
-  - tags
 
 extra_javascript:
   - assets/js/mathjax.js
