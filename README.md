@@ -23,14 +23,16 @@ Whenever a commit is pushed to the `main` branch of this repository, GitHub invo
 - [Git](https://git-scm.com/downloads)
 
 ### Recommended
-- [Obsidian](https://obsidian.md/) for creating and editing files
+- [Obsidian](https://obsidian.md/) for creating and editing Markdown files
 - [Python](https://www.python.org/downloads/) for local previews (and for usage of the `obs2mk` script if desired)
-- [VSCode](https://code.visualstudio.com/Download) for editing YAML, Markdown, or other misc. files
+- [VSCode](https://code.visualstudio.com/Download) for editing YAML, HTML, or other misc. files
 
 Once you've installed the tools, 
 1. Clone this repo. One way this can be done is by executing the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
 1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible".
 1. Make any edits you wish (more on that later). All of the D&D content should be inside the `docs` folder (`assets` is part of MkDocs Material theme, so don't worry about that for now).
+   1. Note that if you include two files with the exact same name but different extensions (e.g. `Spectator.md` and `Spectator.png`) the short Wikilinks-style links might get confused and link to the wrong thing. I just renamed images to avoid this (e.g. `Spectator_image.png`).
+   1. I think this is the point at which you would run the `obs2mk` script, but I'm not entirely sure when it's needed and whether we need its features. There is some documentation of it below. I would ignore it for now.
 1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
    1. You must install the python packages in order to run `mkdocs` locally. Required packages can all be installed at once with `py -m pip install -r requirements.txt`
    1. <details>
@@ -46,10 +48,12 @@ Once you've installed the tools,
       - [mkdocs-embed-file-plugins](https://github.com/Mara-Li/mkdocs_embed_file_plugins)
       </details>
 1. Send your changes to the remote repository:
+   1. `git pull` will pull down changes other people have made and incorporate them into your local working copy of the repo. If those changes clash with any of yours, you will be prompted to resolve the merge conflicts.
    1. `git status` will list the created, modified, and deleted files
    1. `git add X` will add file `X` to the "staging area" (if `X` is `.` it will add all changed files)
    1. `git commit -m "<message>"` will "commit" the changes to the staged files with a description
-   1. `git push` will push your local commit(s) to the remote repository. The power of git comes from its branch management, but we probably won't need that since this project isn't code-based. By default you will be on the `main` branch, and if you don't specify a target branch your commits will be pushed to the upstream of your current branch (i.e. local `main` --> remote `main`)
+   1. `git push` will push your local commit(s) to the remote repository. Much of the power of git comes from its branch management, but we probably won't need that since this project isn't code-based. By default you will be on the `main` branch, and if you don't specify a target branch your commits will be pushed to the upstream of your current branch (i.e. local `main` --> remote `main`)
+   1. If you want to learn more about git, I recommend [this website](http://think-like-a-git.net/) once you're comfortable with the basics.
 1. GitHub (via MkDocs) will automatically regenerate the website. Give it a minute to redeploy before expecting changes to be visible (you can check the status in detail from the `Actions` tab of Github)
 
 
@@ -58,10 +62,14 @@ The MkDocs Material theme has settings in the `mkdocs.yml` file.
 - If you want to change the color palette, [refer to this](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/).
 - The logo, favicons, js, and css can all be found in the `docs/assets` folder
 - MkDocs also has hundreds of plug-ins ("extensions") that I haven't played around with at all [and can be found here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
+- Watch out for features marked "Insider." Apparently MkDocs Material Theme is *sponsorware* so there are some premium features we can't use.
 - There is lots of useful documentation [here](https://squidfunk.github.io/mkdocs-material/) under the `Setup` and `Getting Started` tabs.
 
 
 ## Editing
+Documentation for Markdown syntax (including some Obsidian special features) can be found [here](https://help.obsidian.md/How+to/Format+your+notes).
+
+### Templates
 I made a few file templates in the `docs/templates` folder corresponding to different types of pages. The best way to use these is to create a new (blank) note in Obsidian, then press `Ctrl+T` to open the "Insert Template" menu, and select the desired template. These should help keep layouts and frontmatter consistent.
 
 ### Frontmatter
@@ -78,7 +86,7 @@ key:
 
 #### Obsidian [(Documentation)](https://help.obsidian.md/Advanced+topics/YAML+front+matter)
 - `aliases`: Alternate names for Obsidian to recognize and suggest links. For example, we have a page named `Glasstaff.md` but we want Obsidian to suggest backlinks to that page from any occurrence of `Iarno Albrek`, as they are the same character.
-- `tags`: Tags for searching/sorting published content. ~~[MkDocs *should* be able to use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)~~ *EDIT: That's a paid plugin for the MkDocs Material theme, so the tags are only for Obsidian*
+- `tags`: Tags for searching/sorting published content. ~~[MkDocs can use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)~~ *EDIT: That's a paid plugin for the MkDocs Material theme, so the tags are only for Obsidian*
 - `cssclass`: I haven't played with this. Might be better to ignore and just handle any CSS overrides through MkDocs.
 
 #### MkDocs [(Documentation)](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
@@ -89,9 +97,22 @@ key:
 - `tags`: See above.
 
 #### MkDocs Obsidian Script (Included as part of the MkDocs Obsidian Template)
-- `category`: Alternate way to set folder structure. The special value `hidden` will exclude the file from the generated site.
+- `category`: Alternate way to set folder structure. The special value `hidden` will exclude the file from the generated site (from `awesome-pages` plugin).
 - `share`: Seems like it can act as a whitelist for publishing files, but we're publishing the vault contents by default so no need for this.
 - `update`: Using the value `false` seems like it will lock the file from updating. Not very useful.
+
+### Compatibility
+From [Mara-Li](https://github.com/Mara-Li)'s documentation of the script:
+> So, with the configuration I have done, the mkdocs support :
+> - Folder note: the file needs to be named “index” (instead of the name of the folder)
+> - Admonitions
+> - Wikilinks and relative links
+> - Highlight and tilde markdown
+> - Mathjax and Mermaid 
+> - Embed files (entire file, inline, heading)
+> - Custom Attribute, as [CM6 Attribute (with tags)](https://github.com/nothingislost/obsidian-cm6-attributes/releases), [Markdown Attribute](https://github.com/valentine195/obsidian-markdown-attributes) and [Contextual Typography (with tags)](https://github.com/mgmeyers/obsidian-contextual-typography).
+>
+> I didn't found a way to embed file with wiki links for the moment. Because of the strange behavior of roam links, these embedded file will be rendered as image. The script will take care of this bug. 
 
 ---
 
@@ -101,25 +122,10 @@ key:
 ## Script
 The script need one key, to share the file. You can configure the key in the configuration of the script.
 
-Note : With `awesome-pages` you can hide folder from navigation. To hide a file, just use `hidden` in `category` (as `category: hidden`). Links, image will work without problem.
-
-
-## Obsidian compatibility
-So, with the configuration I have done, the mkdocs support :
-- Folder note : the file need to be named “index” (instead of the name of the folder)
-- Admonition
-- Wikilinks and relative links
-- Highlight and tilde markdown
-- Mathjax and Mermaid 
-- Embed files (entire file, inline, heading)
-- Custom Attribute, as [CM6 Attribute (with tags)](https://github.com/nothingislost/obsidian-cm6-attributes/releases), [Markdown Attribute](https://github.com/valentine195/obsidian-markdown-attributes) and [Contextual Typography (with tags)](https://github.com/mgmeyers/obsidian-contextual-typography).
-
-I didn't found a way to embed file with wiki links for the moment. Because of the strange behavior of roam links, these embedded file will be rendered as image. The script will care of this bug. 
-
 
 # MkDocs Obsidian
 ## Utilities and interest
-*A vast party of the script is taken from my previous project, YAFPA*
+*A vast part of the script is taken from my previous project, YAFPA*
 
 The script will care about some things you can forget :
 - Moving your image in assets ;
@@ -129,7 +135,7 @@ The script will care about some things you can forget :
 
 If you use the `--meta` option, it will also add, in the **original file** a link to the blog. 
 
-⚠️ If the script crash for any reason at the moment where the script updates the frontmatter, you can lose some file.
+⚠️ If the script crashes for any reason at the moment where the script updates the frontmatter, you can lose some file.
 
 ## Usage
 ```powershell
