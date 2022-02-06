@@ -1,4 +1,5 @@
 ---
+title: {{title}}
 aliases: []
 tags: [item, equipment?/artifact?]
 ---

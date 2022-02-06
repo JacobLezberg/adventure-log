@@ -1,4 +1,5 @@
 ---
+title: {{title}}
 aliases: []
 tags: [enemy, lost_mine_of_phandelver]
 ---

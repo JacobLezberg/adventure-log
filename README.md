@@ -29,12 +29,12 @@ Whenever a commit is pushed to the `main` branch of this repository, GitHub invo
 
 Once you've installed the tools, 
 1. Clone this repo. One way this can be done is by executing the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
-1. In Obsidian, open the Vault (i.e. folder) located at `adventure-log/docs`. The `.obsidian` file should automatically be used to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible".
+1. In Obsidian, open the folder `adventure-log/docs` as your Vault. The `.obsidian` folder should be processed automatically to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible".
 1. Make any edits you wish (more on that later). All of the D&D content should be inside the `docs` folder (`assets` is part of MkDocs Material theme, so don't worry about that for now).
    1. Note that if you include two files with the exact same name but different extensions (e.g. `Spectator.md` and `Spectator.png`) the short Wikilinks-style links might get confused and link to the wrong thing. I just renamed images to avoid this (e.g. `Spectator_image.png`).
-   1. I think this is the point at which you would run the `obs2mk` script, but I'm not entirely sure when it's needed and whether we need its features. There is some documentation of it below. I would ignore it for now.
+   1. I think this is the point at which you would run the `obs2mk` script, but I'm not entirely sure when it's needed and whether we need its features. There is some documentation of it below.
 1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
-   1. You must install the python packages in order to run `mkdocs` locally. Required packages can all be installed at once with `py -m pip install -r requirements.txt`
+   1. You must install the python packages in order to run `mkdocs` locally. If you aren't using Conda or an equivalent, I recommend creating a Python virtual environment first with `mkdir .venv; py -m venv .venv` and activating it with `.venv/Scripts/activate`. Then the required packages can all be installed at once with `py -m pip install -r requirements.txt` and they'll be isolated from any other Python projects you may have.
    1. <details>
       <summary>Full list of Python packages (from template)</summary>
       
@@ -63,7 +63,7 @@ The MkDocs Material theme has settings in the `mkdocs.yml` file.
 - The logo, favicons, js, and css can all be found in the `docs/assets` folder
 - MkDocs also has hundreds of plug-ins ("extensions") that I haven't played around with at all [and can be found here](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins).
 - Watch out for features marked "Insider." Apparently MkDocs Material Theme is *sponsorware* so there are some premium features we can't use.
-- There is lots of useful documentation [here](https://squidfunk.github.io/mkdocs-material/) under the `Setup` and `Getting Started` tabs.
+- There is lots of useful documentation [here](https://squidfunk.github.io/mkdocs-material/) under the `Getting Started`, `Setup`, and `Reference` tabs.
 
 
 ## Editing
