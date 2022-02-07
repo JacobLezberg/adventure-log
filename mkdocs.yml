@@ -1,11 +1,17 @@
 site_name: D&D Adventure Log
-site_description: My Obsidian Vault published via mkdocs
+site_description: Records of Wizard Gambling Sessions
 site_url: https://jacoblezberg.github.io/adventure-log
+
+repo_url: https://github.com/jacoblezberg/adventure-log
+repo_name: jacoblezberg/adventure-log
+edit_uri: ""
 
 theme:
     name: 'material'
-    logo: assets/logo/favicons.png
     favicon: assets/logo/favicons.png
+    icon:
+      logo: fontawesome/solid/dungeon
+      repo: material/github
     custom_dir: overrides
     font:
         text: Karla
@@ -15,10 +21,10 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: deep purple
+      accent: cyan
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/lightbulb
         name: Switch to dark mode
 
     # Dark mode
@@ -27,11 +33,13 @@ theme:
       primary: deep purple
       accent: purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb-outline
         name: Switch to light mode
     features:
         - navigation.indexes
         - navigation.top
+        - navigation.instant
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -94,4 +102,7 @@ extra_css:
     - assets/css/tooltipster.bundle.min.css
 
 extra:
-  generator: false
+  social:
+    - icon: fontawesome/solid/dice-d20
+      link: https://5e.tools
+      name: 5e Tools
