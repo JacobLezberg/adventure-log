@@ -2,13 +2,12 @@
 title: Quest Tracker
 aliases: [Quest Tracker]
 ---
-An informal record of [[the-party|The Party]]'s agenda
+An informal record of [[the-party|The Party]]'s agenda.
 
 ## Objectives
 - [ ] Free [[Lantern Spirit|the spirit trapped in the lantern]] (Rulkorf)
 - [ ] Find and kill [[black-spider|The Black Spider]]
- - [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
-- [ ] 
+	* [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
