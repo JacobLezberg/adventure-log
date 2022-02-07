@@ -13,7 +13,7 @@ A town off the Triboar Trail, lying in between the Sword Coast to the west and t
 - Lionshield Coster -- arms and armor shop owned by Linene
 - Stonehill Inn
 - Sleeping Giant Tavern -- a pub formerly frequented by members of the [[redbrands|Redbrands]] gang
-- [[tresendar_manor|Tresendar Manor]] -- home base of the [[redbrands|Redbrands]]
+- [[tresendar-manor|Tresendar Manor]] -- home base of the [[redbrands|Redbrands]]
 - Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[Sister Gariele]]
 - Smithy
 

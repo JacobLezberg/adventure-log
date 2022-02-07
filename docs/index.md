@@ -4,6 +4,6 @@ It seems like a good idea to eventually have shortcuts to categories and/or a Ta
 
 [[quests|Quest Tracker]]
 
-[[session_0.5|Summary of Early Adventures]]
+[[session-0.5|Summary of Early Adventures]]
 
-[[session_01|The Beginning (But Not Really)]]
+[[session-01|The Beginning (But Not Really)]]

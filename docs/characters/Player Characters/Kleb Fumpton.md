@@ -9,7 +9,7 @@ Looks like manly man
 
 ## Backstory
 - Military academy
-- [[lozenge_gules|Lozenge Gules]]
+- [[lozenge-gules|Lozenge Gules]]
 
 ## Abilities
 - Subclass: 

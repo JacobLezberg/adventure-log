@@ -21,7 +21,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
+      primary: teal
       accent: cyan
       toggle:
         icon: material/lightbulb
@@ -102,7 +102,4 @@ extra_css:
     - assets/css/tooltipster.bundle.min.css
 
 extra:
-  social:
-    - icon: fontawesome/solid/dice-d20
-      link: https://5e.tools
-      name: 5e Tools
+  generator: false

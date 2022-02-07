@@ -1,5 +1,6 @@
 ---
-aliases: []
+title: Skeleton Giant
+aliases: [Skeleton Giant]
 tags: [enemy, lost_mine_of_phandelver]
 ---
 ![[skeleton-giant.webp|400]]
