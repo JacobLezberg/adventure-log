@@ -9,7 +9,7 @@ Looks like manly man
 
 ## Backstory
 - Military academy
-- [[Lozenge Gules]]
+- [[lozenge_gules|Lozenge Gules]]
 
 ## Abilities
 - Subclass: 
@@ -17,5 +17,5 @@ Looks like manly man
 - Lorem ipsum
 
 ## Special Possessions
-- [[Calibur]], the sword not pulled from the stone
+- [[calibur|Calibur]], the sword not pulled from the stone
 - List of impressive enemies (based on damage done to Kleb). Mostly full of inanimate objects

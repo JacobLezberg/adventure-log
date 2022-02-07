@@ -9,4 +9,4 @@ I forget what his name was. The nothic is a mutated and corrupted mage with tele
 ## Relationships
 - Hated [[Glasstaff]] because he was responsible for 'acquiring' this creature. It is unclear whether the mage contributed to the nothic's creation or simply assumed the role of its master at a later point.
 - Learned a secret from [[Rowan Chokrotsk]]'s mind, but as of yet has not chosen to use that leverage.
-- Works for [[The Party]] with the understanding that he can keep any shiny baubles he finds.
+- Works for [[the_party|the party]] with the understanding that he can keep any shiny baubles he finds.

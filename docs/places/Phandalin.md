@@ -1,5 +1,6 @@
 ---
-aliases: []
+title: Phandalin
+aliases: [Phandalin]
 tags: [town, phandalin]
 ---
 A town off the Triboar Trail, lying in between the Sword Coast to the west and the Sword Mountains to the east.
@@ -11,8 +12,8 @@ A town off the Triboar Trail, lying in between the Sword Coast to the west and t
 - Barthen's Provisions -- the general store for the town
 - Lionshield Coster -- arms and armor shop owned by Linene
 - Stonehill Inn
-- Sleeping Giant Tavern -- a pub formerly frequented by members of the [[Redbrands]] gang
-- [[Tresendar Manor]] -- home base of the [[Redbrands]]
+- Sleeping Giant Tavern -- a pub formerly frequented by members of the [[redbrands|Redbrands]] gang
+- [[tresendar_manor|Tresendar Manor]] -- home base of the [[redbrands|Redbrands]]
 - Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[Sister Gariele]]
 - Smithy
 

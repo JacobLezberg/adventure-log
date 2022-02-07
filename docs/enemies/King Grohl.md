@@ -4,8 +4,8 @@ tags: [enemy, lost_mine_of_phandelver]
 ---
 ![[Hobgoblin.webp|200]]
 
-A fearsome hobgoblin (not a bugbear) who ruled the [[Cragmaws]] from [[Cragmaw Castle]]. He ordered the abduction of [[Gundren Rockseeker]] as part of [[The Black Spider]]'s search for [[Wave Echo Cave]]. Killed by [[The Party]] in their effort to rescue [[Gundren Rockseeker|Gundren]].
+A fearsome hobgoblin (not a bugbear) who ruled the [[cragmaws|Cragmaws]] from [[cragmaw_castle|Cragmaw Castle]]. He ordered the abduction of [[Gundren Rockseeker]] as part of [[The Black Spider]]'s search for [[wave_echo_cave|Wave Echo Cave]]. Killed by [[the_party|the party]] in their effort to rescue [[Gundren Rockseeker|Gundren]].
 
 ## Loot
-- [[Calibur]] (taken by [[Kleb Fumpton]])
+- [[calibur|Calibur]] (taken by [[Kleb Fumpton]])
 - Purple armor (taken by [[Rowan Chokrotsk]])

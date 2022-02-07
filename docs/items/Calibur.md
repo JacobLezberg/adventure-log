@@ -1,7 +1,10 @@
 ---
-aliases: [Exossus, Swordhammer, Hammersword]
+title: Calibur
+aliases: [Calibur, Exossus, Swordhammer, Hammersword]
 tags: [item, equipment]
 ---
 ![[Calibur_image.jpg|150]]
 
-A longsword of unknown origin but potent magical capability, Calibur was [[King Grohl]]'s weapon of choice when he was killed. It is now in [[Kleb Fumpton|Kleb]]'s possession.
+A longsword of unknown origin but potent magical capability, Calibur was [[King Grohl]]'s weapon of choice when he was killed. [[Kleb Fumpton|Kleb]] took it from the hobgoblin as loot and now wields it as his primary weapon.
+
+In [[wave_echo_cave|Wave Echo Cave]], during a fight with a giant skeleton monster, Calibur became lodged in one of its bones. When [[Kleb Fumpton|Kleb]] pulled it out, the runes on the blade rearranged to form a new name, *Exossus*.

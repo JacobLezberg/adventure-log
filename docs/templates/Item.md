@@ -1,7 +1,5 @@
 ---
 title: {{title}}
-aliases: []
-tags: [item, equipment?/artifact?]
+aliases: [{{title}}]
+tags: [item]
 ---
-Use equipment tag for (wearable/usable) gear
-use artifact tag for other objects

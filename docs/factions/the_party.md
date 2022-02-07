@@ -1,5 +1,6 @@
 ---
-aliases: []
+title: The Party
+aliases: [the party, The Party]
 tags: [faction]
 ---
 That's us! Name to be determined...
@@ -8,4 +9,4 @@ That's us! Name to be determined...
 - [[Rulkorf Alpensinger]], dwarven coastal druid
 - [[Rowan Chokrotsk]], human paladin of Tymora
 - [[Kleb Fumpton]], human fighter
-- [[Fallon|Ph'allon]] (joined in [[Phandalin]] during the race to the [[Spellforge]])
+- [[Fallon|Ph'allon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])

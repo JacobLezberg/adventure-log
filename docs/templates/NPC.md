@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-aliases: []
+aliases: [{{title}}]
 tags: [npc]
 ---
 Lorem ipsum

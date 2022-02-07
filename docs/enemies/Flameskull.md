@@ -4,6 +4,6 @@ tags: [enemy, lost_mine_of_phandelver]
 ---
 ![[Flameskull_image.png|200]]
 
-A chaotic and malevolent entity lurking in [[Wave Echo Cave]]. The Flameskull reanimated a group of dwarven skeletons to fight against both [[The Party]] and a group of mercenaries working for [[The Black Spider]]. It seemed to enjoy causing pain and fear, and once it felt cornered it self-destructed to bring its enemies down with it.
+A chaotic and malevolent entity lurking in [[wave_echo_cave|Wave Echo Cave]]. The Flameskull reanimated a group of dwarven skeletons to fight against both [[the_party|the party]] and a group of mercenaries working for [[The Black Spider]]. It seemed to enjoy causing pain and fear, and once it felt cornered it self-destructed to bring its enemies down with it.
 
-The Flameskull can regenerate itself unless the site of its demise is neutralized with holy water. [[The Party]] was able to substitute molten iron (from blessed ball bearings) in place of holy water to successfully suppress the Flameskull's resurrection.
+The Flameskull can regenerate itself unless the site of its demise is neutralized with holy water. [[the_party|The Party]] was able to substitute molten iron (from blessed ball bearings) in place of holy water to successfully suppress the Flameskull's resurrection.

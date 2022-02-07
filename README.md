@@ -34,7 +34,7 @@ Once you've installed the tools,
    1. Note that if you include two files with the exact same name but different extensions (e.g. `Spectator.md` and `Spectator.png`) the short Wikilinks-style links might get confused and link to the wrong thing. I just renamed images to avoid this (e.g. `Spectator_image.png`).
    1. I think this is the point at which you would run the `obs2mk` script, but I'm not entirely sure when it's needed and whether we need its features. There is some documentation of it below.
 1. Preview your changes, if desired, by running `mkdocs serve` from the `adventure-log` directory. Assuming there are no errors, it will give you a local webpage that should mirror the one that would be deployed to GitHub Pages once you push your changes.
-   1. You must install the python packages in order to run `mkdocs` locally. If you aren't using Conda or an equivalent, I recommend creating a Python virtual environment first with `mkdir .venv; py -m venv .venv` and activating it with `.venv/Scripts/activate`. Then the required packages can all be installed at once with `py -m pip install -r requirements.txt` and they'll be isolated from any other Python projects you may have.
+   1. You must install the python packages in order to run `mkdocs` locally. If you aren't using Conda or an equivalent, I recommend creating a Python virtual environment first with `py -m venv .venv` and activating it with `.venv/Scripts/activate`. Then the required packages can all be installed at once with `py -m pip install -r requirements.txt` and they'll be isolated from any other Python projects you may have.
    1. <details>
       <summary>Full list of Python packages (from template)</summary>
       
@@ -89,7 +89,7 @@ key:
 - `tags`: Tags for searching/sorting published content. ~~[MkDocs can use them too](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)~~ *EDIT: That's a paid plugin for the MkDocs Material theme, so the tags are only for Obsidian*
 - `cssclass`: I haven't played with this. Might be better to ignore and just handle any CSS overrides through MkDocs.
 
-#### MkDocs [(Documentation)](https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/)
+#### MkDocs [(Documentation)](https://www.mkdocs.org/user-guide/writing-your-docs/#meta-data)
 - `template`: Note that this is an HTML template, not a Markdown template
 - `title`: An override for the displayed name of a page (which would normally be the name of the markdown file). Also changes it in navigation. Good for letting Obsidian links be intuitive without having ugly URLs with spaces in them).
 - `description`: I'm not entirely sure how this is used. If it's for SEO, it's useless for us.

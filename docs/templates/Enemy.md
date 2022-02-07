@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-aliases: []
+aliases: [{{title}}]
 tags: [enemy, lost_mine_of_phandelver]
 ---
 Picture goes here!

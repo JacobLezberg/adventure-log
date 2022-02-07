@@ -2,7 +2,7 @@
 aliases: [Rulkorf]
 tags: [Jacob, pc, player]
 ---
-A hill dwarf from the southern end of the Sword Coast, Rulkorf was born with an insatiable urge to experience different parts of the natural world. After leaving home, he spent years as a bounty hunter and navigator aboard a ship before founding [[The Party]] along with [[Kleb Fumpton]] and [[Rowan Chokrotsk]]. He felt called to specialize his skills as a Druid of the Land, finding a particular connection to the Coastal Druid Circle. 
+A hill dwarf from the southern end of the Sword Coast, Rulkorf was born with an insatiable urge to experience different parts of the natural world. After leaving home, he spent years as a bounty hunter and navigator aboard a ship before founding [[the_party|the party]] along with [[Kleb Fumpton]] and [[Rowan Chokrotsk]]. He felt called to specialize his skills as a Druid of the Land, finding a particular connection to the Coastal Druid Circle. 
 
 ## Appearance
 At just over 4 feet tall, Rulkorf stands as stout and stocky as any of his brethren. He sports a mane of amber-colored hair and a diligently-groomed beard, braided into the traditional style of his people. Both of these have lighter streaks that were bleached by the sun, and his skin, although naturally pale, has taken on a light tan from long hours outdoors. The dwarf has spent enough time back on land that his gait is no longer the wide swagger of a sea-legged crewmate, but he easily falls back into the habit if he thinks it will help embellish his retelling of old stories to an audience at the tavern.
@@ -31,9 +31,9 @@ Having experienced life in the forests, under the mountains, and on the open oce
 
 ## Special Possessions
 - [[Glasstaff]]'s namesake Staff of Magic Missiles
-- Compass with a wooden frame that is sensistive to magic (Druidic Focus)
+- Compass with a wooden frame that is sensitive to magic (Druidic Focus)
 - Shard of obsidian that is perpetually warm (Lucky Trinket)
-- [[Manta Ray Cloak]] (inhabited by the spirit of [[Gil]])
+- [[manta_ray_cloak|Manta Ray Cloak]] (inhabited by the spirit of [[Gil]])
 - Shield of Arrow-Catching
 - [[Toward Safer Arcane Research and Development.pdf|Ring of Odd Evening]]
-- [[Soul Lantern]] (with [[Lantern Spirit|one remaining spirit]])
+- [[soul_lantern|Soul Lantern]] (with [[Lantern Spirit|one remaining spirit]])

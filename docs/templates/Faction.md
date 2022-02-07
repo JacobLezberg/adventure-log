@@ -1,6 +1,6 @@
 ---
 title: {{title}}
-aliases: []
+aliases: [{{title}}]
 tags: [faction]
 ---
 Lorem ipsum
