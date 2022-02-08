@@ -1,5 +1,6 @@
 ---
-aliases: [Kleb]
+title: Kleb Fumpton
+aliases: [Kleb, Kleb Fumpton]
 tags: [Zed, pc, player]
 ---
 A human fighter who XYZ

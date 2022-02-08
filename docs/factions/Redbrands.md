@@ -7,6 +7,6 @@ A mafia that exerted control over [[phandalin|Phandalin]], based out of the comp
 
 ## Members
 - [[glasstaff|Glasstaff]] (deceased)
-- [[nothic]]
+- [[nothic|Nothic]]
 - Multiple humans and bugbears
 - Multiple undead servants

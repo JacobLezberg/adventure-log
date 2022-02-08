@@ -6,7 +6,7 @@ tags: [town, phandalin]
 A town off the Triboar Trail, lying in between the Sword Coast to the west and the Sword Mountains to the east.
 
 ## Map
-![[Phandalin Map.jpg]]
+![[phandalin-map.jpg]]
 
 ## Points of Interest
 - Barthen's Provisions -- the general store for the town
@@ -14,10 +14,10 @@ A town off the Triboar Trail, lying in between the Sword Coast to the west and t
 - Stonehill Inn
 - Sleeping Giant Tavern -- a pub formerly frequented by members of the [[redbrands|Redbrands]] gang
 - [[tresendar-manor|Tresendar Manor]] -- home base of the [[redbrands|Redbrands]]
-- Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[Sister Gariele]]
+- Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[sister-gariele|Sister Gariele]]
 - Smithy
 
 ## Inhabitants
-- [[Sister Gariele]] -- priestess of Tymora
+- [[sister-gariele|Sister Gariele]] -- priestess of Tymora
 - Linene -- owner of the Lionshield Coster
-- Barthen -- shopkeeper with a wife and son. Somewhat distrustful of [[Kleb Fumpton]], who in turn is very suspicious of Barthen's son
+- Barthen -- shopkeeper with a wife and son. Somewhat distrustful of [[kleb-fumpton|Kleb Fumpton]], who in turn is very suspicious of Barthen's son

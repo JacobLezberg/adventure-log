@@ -3,7 +3,7 @@ title: Cragmaw Castle
 aliases: [Cragmaw Castle]
 tags: [building]
 ---
-An old castle in the Neverwinter Wood that was used by [[king-grohl|King Grohl]] and the [[cragmaws|Cragmaws]] as the seat of their power. [[the-party|The Party]] rescued [[Gundren Rockseeker]] here and first encountered the drow who stole the dwarf's map.
+An old castle in the Neverwinter Wood that was used by [[king-grohl|King Grohl]] and the [[cragmaws|Cragmaws]] as the seat of their power. [[the-party|The Party]] rescued [[gundren-rockseeker|Gundren Rockseeker]] here and first encountered the drow who stole the dwarf's map.
 
 ## Map
 Embed here!

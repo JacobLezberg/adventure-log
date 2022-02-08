@@ -1,5 +1,6 @@
 ---
-aliases: []
+title: Gil
+aliases: [Gil]
 tags: [npc]
 ---
 Lorem ipsum

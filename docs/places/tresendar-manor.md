@@ -6,7 +6,7 @@ tags: [building, phandalin]
 A decrepit manor on the eastern end of [[phandalin|Phandalin]]. The subterranean complex below the mansion serves as the main hideout for the [[redbrands|Redbrands]].
 
 ## Map
-![[Tresendar Manor Map.png]]
+![[tresendar-manor-map.png]]
 
 ## Inhabitants
 - [[glasstaff]] (deceased)

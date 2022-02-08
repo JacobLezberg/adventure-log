@@ -24,7 +24,7 @@ theme:
       primary: teal
       accent: cyan
       toggle:
-        icon: material/lightbulb
+        icon: material/lightbulb-outline
         name: Switch to dark mode
 
     # Dark mode
@@ -33,7 +33,7 @@ theme:
       primary: deep purple
       accent: purple
       toggle:
-        icon: material/lightbulb-outline
+        icon: material/lightbulb
         name: Switch to light mode
     features:
         - navigation.indexes
@@ -82,6 +82,7 @@ markdown_extensions:
 plugins:
   - search
   - ezlinks:
+        warn_ambiguities: true
         wikilinks: true
   - mermaid2
   - awesome-pages

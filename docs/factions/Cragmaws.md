@@ -8,4 +8,4 @@ A bandit group that held influence in the area outside [[phandalin|Phandalin]]. 
 ## Members
 - [[king-grohl|King Grohl]] (deceased)
 - [[klarg|Klarg]] (deceased)
-- [[Yemick]]
+- [[yemick|Yemick]]

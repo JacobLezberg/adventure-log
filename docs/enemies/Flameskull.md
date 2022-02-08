@@ -3,7 +3,7 @@ title: Flameskull
 aliases: [Flameskull, flaming skull]
 tags: [enemy, lost_mine_of_phandelver]
 ---
-![[Flameskull_image.png|200]]
+![[flameskull-image.png|200]]
 
 A chaotic and malevolent entity lurking in [[wave-echo-cave|Wave Echo Cave]]. The Flameskull reanimated a group of dwarven skeletons to fight against both [[the-party|the party]] and a group of mercenaries working for [[black-spider|The Black Spider]]. It seemed to enjoy causing pain and fear, and once it felt cornered it self-destructed to bring its enemies down with it.
 

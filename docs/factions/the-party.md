@@ -6,7 +6,7 @@ tags: [faction]
 That's us! Name to be determined...
 
 ## Members
-- [[Rulkorf Alpensinger]], dwarven coastal druid
-- [[Rowan Chokrotsk]], human paladin of Tymora
-- [[Kleb Fumpton]], human fighter
-- [[Fallon|Ph'allon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])
+- [[rulkorf-alpensinger|Rulkorf Alpensinger]], dwarven coastal druid
+- [[rowan-chokrotsk|]], human paladin of Tymora
+- [[kleb-fumpton|Kleb Fumpton]], human fighter
+- [[fallon|Ph'allon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])

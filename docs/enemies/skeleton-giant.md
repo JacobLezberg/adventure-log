@@ -3,7 +3,7 @@ title: Skeleton Giant
 aliases: [Skeleton Giant]
 tags: [enemy, lost_mine_of_phandelver]
 ---
-![[giant_skeleton.webp|400]]
+![[giant-skeleton-image.webp|400]]
 
 Lorem ipsum
 

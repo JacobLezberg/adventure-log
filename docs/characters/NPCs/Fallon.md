@@ -1,5 +1,6 @@
 ---
-aliases: [Ph'allon]
+title: Fallon
+aliases: [Fallon, Ph`allon]
 tags: [npc]
 ---
 Lorem ipsum
