@@ -4,7 +4,8 @@ aliases: [Summary of Early Adventures]
 tags: [session_notes, lost_mine_of_phandelver]
 ---
 # The Story So Far...
-###### Date: 2022-Feb-12
+**2022-Feb-12**
+
 The events chronicled below predate the systematic records of other adventuring sessions and are therefore compiled as a single log. These events took the adventurers from Level 1 to Level 4 over a real life time period from roughly **2021-Jun-23** to **2022-Feb-12**.
 
 ## An Escort Mission Goes Awry
