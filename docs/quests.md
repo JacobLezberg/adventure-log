@@ -8,6 +8,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Free [[lantern-spirit|the spirit trapped in the lantern]] (Rulkorf)
 - [ ] Find and kill [[black-spider|The Black Spider]]
 	* [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
+* [ ] Acquire Displacer Beast parts to make an invisibility potion
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
