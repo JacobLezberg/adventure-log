@@ -6,10 +6,3 @@ tags: [enemy, lost_mine_of_phandelver]
 ![[giant-skeleton-image.webp|400]]
 
 Lorem ipsum
-
-## Relationships
-dolor sit amet
-
-## Loot
-- consectetur
-- adipiscing elit
