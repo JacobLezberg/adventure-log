@@ -10,3 +10,4 @@ It seems like a good idea to eventually have shortcuts to categories and/or a Ta
 [[session-01|The Beginning (But Not Really)]]
 
 # Quote Board
+- Lorem ipsum
