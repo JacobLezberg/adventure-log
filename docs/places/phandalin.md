@@ -14,7 +14,7 @@ A town off the Triboar Trail, lying in between the Sword Coast to the west and t
 - Stonehill Inn -- an inn and tavern by the center of town. [[the-party|The party]] has free rooms here any time they want
 - Sleeping Giant Tavern -- a pub formerly frequented by members of the [[redbrands|Redbrands]] gang
 - [[tresendar-manor|Tresendar Manor]] -- home base of the [[redbrands|Redbrands]]
-- Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[sister-garaele|Sister Gariele]]
+- Shrine of Luck -- a small monument to the goddess Tymora. Overseen by [[sister-garaele|Sister Garaele]]
 - Smithy
 
 ## Inhabitants

@@ -13,7 +13,7 @@ This project is based on the wonderful [MkDocs Obsidian Template](https://mara-l
 
 
 ## How to View
-Visit [The Adventure Log](https://jacoblezberg.github.io/adventure-log/) to see the content!
+The *best* way to view this content is in [Obsidian's](https://obsidian.md/) reading mode. All of the links, formatting, embedded media, and page previews will looks as they were originally intended, plus you get features like Graph Mode. Unfortunately, Obsidian Publish is a paid feature, so you can only view the vault from inside Obsidian after cloning the repo. If you don't want to download anything, the next best way to view the contents of the vault is by visiting [The Adventure Log](https://jacoblezberg.github.io/adventure-log/).
 
 
 ## How to Contribute
@@ -91,7 +91,7 @@ key:
 
 #### MkDocs [(Documentation)](https://www.mkdocs.org/user-guide/writing-your-docs/#meta-data)
 - `template`: Note that this is an HTML template, not a Markdown template
-- `title`: An override for the displayed name of a page (which would normally be the name of the markdown file). Also changes it in navigation. Good for letting Obsidian links be intuitive without having ugly URLs with spaces in them).
+- `title`: An override for the displayed name of a page. Also changes it in navigation. Good for letting Obsidian links be intuitive (without having ugly URLs with spaces in them).
 - `description`: I'm not entirely sure how this is used. If it's for SEO, it's useless for us.
 - `image`: Adds an image (needs <relative_link.format>). I'm not sure where/how this appears.
 - `tags`: See above.
