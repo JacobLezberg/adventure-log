@@ -1,6 +1,6 @@
 ---
 title: Session 2
-aliases: [Session 2]
+aliases: [Session 2, The Backwards-Facing Oracle]
 tags: [session_notes, new_adventure]
 ---
 # The Backwards-Facing Oracle
