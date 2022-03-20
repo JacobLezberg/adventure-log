@@ -9,9 +9,13 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find and kill [[black-spider|The Black Spider]]
 	* [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
 * [ ] Acquire Displacer Beast parts to make an invisibility potion
+* [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
+	* [x] Question the banshee Agatha in Conyberry
+* [ ] Find Wexton and send him back to his wife Halia in Phandalin
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
+- What happened to Harbin Wester, the [[Phandalin]] Townmaster?
 
 ## Completed Quests
 - [x] Deliver [[gundren-rockseeker|Gundren]]'s goods to Barthen in [[phandalin|Phandalin]]

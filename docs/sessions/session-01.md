@@ -20,4 +20,4 @@ A new day dawns on Phandalin.
 
 [[sister-garaele|Sister Garaele]] tells the party that she believes the Black Spider to be a male drow, although there are many rumors about his identity. So the doppelganger that the group killed was likely just his subordinate. She further tells them that she is part of a secret society called [[harpers|The Harpers]], who are tasked with safeguarding knowledge, and shows them her medallion (silver harp on a crescent moon). [[sister-garaele|Sister Garaele]] extends an offer of membership to the party, which [[kleb-fumpton|Kleb]] rejects on the basis of not being "tied down," but [[rulkorf-alpensinger|Rulkorf]] and [[rowan-chokrotsk|Rowan]] agree to join the society. She traces the [[harpers|Harpers]]' symbol in the air, and initiates them as Harper-Watchers with a wave of blue energy.
 
-She asks them to look into a banshee in the village of Konieberry
+She has an assignment for the new Watchers...
