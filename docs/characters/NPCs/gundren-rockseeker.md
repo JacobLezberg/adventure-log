@@ -7,6 +7,6 @@ Gundren is a successful merchant who runs a mining operation with his brothers. 
 
 ## Relationships
 - Gundren had two brothers
-	- One of them ==NAME HERE== was killed by subordinates of [[black-spider|The Black Spider]]
+	- One of them, Tharden, was killed by subordinates of [[black-spider|The Black Spider]]
 	- The other, Nundro, was wounded and poisoned, but survived
 - Friend of [[sildar-hallwinter|Sildar Hallwinter]]
