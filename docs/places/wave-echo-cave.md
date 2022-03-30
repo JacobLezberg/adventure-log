@@ -1,6 +1,6 @@
 ---
 title: Wave Echo Cave
-aliases: [Wave Echo Cave, Lost Mine of Phandelver, the lost mine]
+aliases: [Wave Echo Cave, Lost Mine of Phandelver, the lost mine, Phandelver Mine]
 tags: [location]
 ---
 Wave Echo Cave is a place of legend that was lost for an unknown amount of time. It is named for the large body of water that meets a cliff face in its northeast section, whose crashing waves resound throughout the cavern.
