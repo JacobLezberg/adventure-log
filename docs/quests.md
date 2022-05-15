@@ -16,6 +16,8 @@ An informal record of [[the-party|The Party]]'s agenda.
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
 - What happened to Harbin Wester, the [[Phandalin]] Townmaster?
+- Where is the Tomb of the Nine Gods?
+	- What happened to Wexton, the husband of Halia (Phandalin Miner's Exchange), who was searching for the tomb?
 
 ## Completed Quests
 - [x] Deliver [[gundren-rockseeker|Gundren]]'s goods to Barthen in [[phandalin|Phandalin]]
