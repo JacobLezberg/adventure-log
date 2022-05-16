@@ -1,9 +1,11 @@
 ---
-title: Session 2
-aliases: [Session 2, The Backwards-Facing Oracle]
+title: The HistOracle
+aliases: [Session 2, The HistOracle]
 tags: [session_notes, new_adventure]
+story_arc: New Adventure
+published: 2022-03-19
 ---
-# The Backwards-Facing Oracle
+# `=this.title`
 **2022-Mar-19**
 
 [[sister-garaele|Sister Garaele]]'s task: Gather information about a magical artifact, Bowgentle's spellbook, which disappeared after Sindras died (roughly 200 years ago in the battle of Waterdeep). In Conyberry, there is a banshee named [[agatha|Agatha]] who rarely appears to travelers but might be helpful. [[sister-garaele|Garaele]] provides [[the-party|the party]] with an ornate silver comb encrusted with jewels, which might be useful in negotiations with [[agatha|Agatha|the banshee]]. She warns that banshees are a clever form of undead that can become incorporeal and are driven by hate/vengeance. 

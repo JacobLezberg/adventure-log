@@ -11,7 +11,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 * [ ] Acquire Displacer Beast parts to make an invisibility potion
 * [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
 	* [x] Question the banshee Agatha in Conyberry
-* [ ] Find Wexton and send him back to his wife Halia in Phandalin
+* [ ] Find Wexton and send him back to his wife Halia in [[Phandalin]]
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?

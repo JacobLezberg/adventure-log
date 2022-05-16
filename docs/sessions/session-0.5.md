@@ -1,13 +1,17 @@
 ---
 title: Summary of Early Adventures
-aliases: [Summary of Early Adventures]
+aliases: [Session 0.5, Summary of Early Adventures]
 tags: [session_notes, lost_mine_of_phandelver]
+story_arc: The Lost Mine of Phandelver
+published: 2022-02-19
 ---
-# The Story So Far...
+## The Story So Far...
 **2022-Feb-19**
 
 The events chronicled below predate the systematic records of other adventuring sessions and are therefore compiled as a single log. These events took the adventurers from Level 1 to Level 4 over a real life time period from roughly **2021-Jun-23** to **2022-Feb-19**.
 
+---
+# `=this.title`
 ## An Escort Mission Goes Awry
 [[rulkorf-alpensinger|Rulkorf Alpensinger]], [[kleb-fumpton|Kleb Fumpton]], and [[rowan-chokrotsk|Rowan Chokrotsk]] first met in the city of Neverwinter when they were all hired by a pair of dwarves (the merchant [[gundren-rockseeker|Gundren Rockseeker]] and his head of security [[sildar-hallwinter|Sildar Hallwinter]]) to escort merchandise along the bandit-infested Triboar Trail. The dwarves wanted their valuable goods transported to the town of [[phandalin|Phandalin]], where they had a standing deal to sell merchandise to a local shopkeeper.
 

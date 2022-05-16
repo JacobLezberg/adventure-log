@@ -1,9 +1,11 @@
 ---
-title: {{title}}
-aliases: [{{title}}]
+title: Episode Title
+aliases: [Session X, {{title}}]
 tags: [session_notes, new_adventure]
+story_arc: New Adventure
+published: {{date:YYYY-MM-DD}}
 ---
-# Episode Title
+# `=this.title`
 **{{date}}**
 
-replace `new_adventure` tag with whatever the current story arc is
+==Don't forget to update metadata!==

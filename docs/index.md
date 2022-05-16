@@ -1,13 +1,36 @@
 # Home
-This is an index (index.md ==> index.html) file. It functions as the "homepage" for its directory and is unique in that it doesn't need frontmatter. If you try to manually navigate to a webpage for a folder that doesn't have an index you'll get a 404 error.
+Welcome to the Adventure Log! This is a record of the travels of [[rulkorf-alpensinger|Rulkorf Alpensinger]], [[kleb-fumpton|Kleb Fumpton]], and [[rowan-chokrotsk|Rowan Chokrotsk]] in the Forgotten Realms.
 
-It seems like a good idea to eventually have shortcuts to categories and/or a Table of Contents (and/or description of the party and website). For now, here are some links:
-
-[[quests|Quest Tracker]]
-
-[[session-0.5|Summary of Early Adventures]]
-
-[[session-01|The Beginning (But Not Really)]]
-
+---
+# Open Quests
+```dataview
+TASK FROM ""
+WHERE !completed
+GROUP BY "" as "Open Quests"
+```
+---
+# Recent Events
+```dataview
+TABLE WITHOUT ID	
+	("[[" + file.name + "|" + title + "]]") AS Name,
+	dur(date(today) - file.cday) AS Age
+FROM #new_adventure AND !"templates"
+LIMIT 3
+SORT file.cday DESC
+```
+---
 # Quote Board
-- Lorem ipsum
+- *Nothing here yet...*
+---
+# Historical Archive
+```dataview
+TABLE WITHOUT ID
+	arc AS "Story Arc",
+	link(rows.file.name, rows.title) AS Name,
+	date(rows.published) AS Date
+FROM "sessions"
+SORT file.cday ASC
+GROUP BY story_arc AS arc
+SORT arc DESC
+```
+---
