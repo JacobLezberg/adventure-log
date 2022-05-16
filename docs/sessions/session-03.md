@@ -5,7 +5,7 @@ tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2022-05-14
 ---
-# `=this.title`
+# Poppin' Pills
 **2022-May-14**
 
 On their way back to [[phandalin|Phandalin]], [[the-party|the party]] sees a wagon slowly approaching with an armed escort, emblazoned with the seal of Neverwinter. [[kleb-fumpton|Kleb]] and [[rowan-chokrotsk|Rowan]] feel it's important to establish dominance over this armed caravan, so they spread out to block the road.
