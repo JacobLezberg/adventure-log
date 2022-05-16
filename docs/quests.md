@@ -11,11 +11,11 @@ An informal record of [[the-party|The Party]]'s agenda.
 * [ ] Acquire Displacer Beast parts to make an invisibility potion
 * [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
 	* [x] Question the banshee Agatha in Conyberry
-* [ ] Find Wexton and send him back to his wife Halia in [[Phandalin]]
+* [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
-- What happened to Harbin Wester, the [[Phandalin]] Townmaster?
+- What happened to Harbin Wester, the [[phandalin|Phandalin]] Townmaster?
 - Where is the Tomb of the Nine Gods?
 	- What happened to Wexton, the husband of Halia (Phandalin Miner's Exchange), who was searching for the tomb?
 
