@@ -12,6 +12,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 * [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
 	* [x] Question the banshee Agatha in Conyberry
 * [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
+* [ ] Rid [[phandalin|Phandalin]] of the members of [[lozenge-azure|Lozenge Azure]]
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?

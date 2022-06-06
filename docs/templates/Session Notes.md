@@ -5,7 +5,7 @@ tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: {{date:YYYY-MM-DD}}
 ---
-# `=this.title`
+# Episode Title
 **{{date}}**
 
 ==Don't forget to update metadata!==
