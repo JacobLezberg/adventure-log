@@ -1,6 +1,6 @@
 ---
 title: Lozenge Azure
-aliases: [Lozenge Azure]
+aliases: [Lozenge Azure, bluepill]
 tags: [faction]
 ---
 Buncha fuckin pussies, am I right?

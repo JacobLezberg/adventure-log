@@ -1,6 +1,6 @@
 ---
 title: Schemes & Maneuvers
-aliases: [Session 4, session-04]
+aliases: [Session 5, Schemes & Maneuvers]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2022-06-05
