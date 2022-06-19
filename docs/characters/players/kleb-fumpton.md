@@ -14,6 +14,7 @@ Looks like manly man
 
 ## Abilities
 - Subclass: 
+
 ### Feats:
 - Lorem ipsum
 

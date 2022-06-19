@@ -10,7 +10,7 @@ A human paladin, follower of Tymora, and champion of the common man
 ## Backstory
 
 ## Abilities
-- Subclass: 
+- Subclass: Oath of Conquest
 
 ### Feats:
 - Lorem ipsum
@@ -19,3 +19,4 @@ A human paladin, follower of Tymora, and champion of the common man
 - A bajillion blessed ball bearings
 - Shield with giant fricking spikes on it
 - Lightbringer mace
+- Purple armor taken from the defeated [[king-grohl|King Grohl]]
