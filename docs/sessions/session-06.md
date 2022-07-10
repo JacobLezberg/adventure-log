@@ -1,11 +1,11 @@
 ---
-title: Whirlwind of Pain
-aliases: [Session 6, Whirlwind of Pain]
+title: Kicking Ass, Taking Prisoners
+aliases: [Session 6, Kicking Ass, Taking Prisoners]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2022-06-18
 ---
-# Whirlwind of Pain
+# Kicking Ass, Taking Prisoners
 **2022-Jun-18**
 
 - Combat begins!
