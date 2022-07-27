@@ -9,7 +9,7 @@ An old castle in the Neverwinter Wood that was used by [[king-grohl|King Grohl]]
 ==Embed here!==
 
 ## Inhabitants
-- [[king-grohl|King Grohl]] (deceased)
+- [[king-grohl|King Grohl]]
 - Multiple bugbears (deceased)
 - A grick (deceased)
 - Kitchen staff, all goblins

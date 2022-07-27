@@ -17,5 +17,5 @@ At one point, it housed the Archivists of the Phandelver Pact, who performed [[t
 
 ## Inhabitants
 - Archivists (ancient, deceased)
-- [[spectator]] (deceased)
+- [[spectator|Spectator]] (deceased)
 - [[flameskull|Flameskull]] (deceased)

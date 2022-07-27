@@ -9,7 +9,7 @@ A decrepit manor on the eastern end of [[phandalin|Phandalin]]. The subterranean
 ![[tresendar-manor-map.png]]
 
 ## Inhabitants
-- [[glasstaff]] (deceased)
-- [[nothic]]
+- [[glasstaff|Glasstaff]] (deceased)
+- [[nothic|Nothic]]
 - Multiple undead servants
 - Multiple humans and bugbears

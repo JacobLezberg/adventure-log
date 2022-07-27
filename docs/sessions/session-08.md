@@ -9,7 +9,7 @@ published: 2022-07-25
 
 **2022-Jul-22**
 
-*We were finally able to have an in-person session! Thanks Williams!
+*We were finally able to have an in-person session! Thanks Williams!*
 
 *Turns out we also all got Covid. Thanks Williams!*
 
