@@ -1,7 +1,7 @@
 # Home
 Welcome to the Adventure Log! This is a record of the travels of [[rulkorf-alpensinger|Rulkorf Alpensinger]], [[kleb-fumpton|Kleb Fumpton]], and [[rowan-chokrotsk|Rowan Chokrotsk]] in the Forgotten Realms.
 
-The sections below utilize the Obsidian Dataview plugin to dynamically populate tables with information from the log. Unfortunately the results of the queries are visible only in Obsidian proper, not online.
+The sections below utilize the Obsidian Dataview plugin to dynamically populate tables with information from the log. Unfortunately the results of the queries are visible only in Obsidian proper, not online. Check the sidebar for more information about particular people, places, items, and events!
 
 ---
 # Open Quests
@@ -23,6 +23,7 @@ SORT file.cday DESC
 ---
 # Quote Board
 - *Nothing here yet...*
+
 ---
 # Historical Archive
 ```dataview

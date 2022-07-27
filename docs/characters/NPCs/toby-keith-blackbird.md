@@ -6,4 +6,4 @@ tags: [npc]
 Lorem ipsum
 
 ## Relationships
-- Dolor sit amet
+- Went to school with [[kleb-fumpton|Kleb]], although the fighter would vehemently deny it

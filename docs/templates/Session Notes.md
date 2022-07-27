@@ -9,3 +9,5 @@ published: {{date:YYYY-MM-DD}}
 **{{date}}**
 
 ==Don't forget to update metadata!==
+
+- 

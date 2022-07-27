@@ -11,13 +11,16 @@ An informal record of [[the-party|The Party]]'s agenda.
 * [ ] Acquire Displacer Beast parts to make an invisibility potion
 * [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 * [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
+* [ ] Rid [[phandalin|Phandalin]] of the members of [[lozenge-azure|Lozenge Azure]]
+	* [ ] Try not to be conspicuous or invoke the wrath of [[lord-neverember|Lord Neverember]]
+	* [ ] Now that they've associated the party with the Nothic, handle the aftermath
 
 ## Mysteries/Questions
 - Where is the real [[black-spider|Black Spider]]?
 - What happened to Harbin Wester, the [[phandalin|Phandalin]] Townmaster?
 - Where is the Tomb of the Nine Gods?
 	- What happened to Wexton, the husband of Halia (Phandalin Miner's Exchange), who was searching for the tomb?
-- Who removed the goblin corpses from the Phandalin square?
+- Who removed the goblin corpses from the Phandalin square after the party neutralized their attack?
 
 ## Completed Quests
 - [x] Deliver [[gundren-rockseeker|Gundren]]'s goods to Barthen in [[phandalin|Phandalin]]
@@ -25,4 +28,3 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [x] Free [[phandalin|Phandalin]] from the influence of [[glasstaff|Glasstaff]] and the [[redbrands|Redbrands]]
 - [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
 	* [x] Question the banshee Agatha in Conyberry
-* [x] Rid [[phandalin|Phandalin]] of the members of [[lozenge-azure|Lozenge Azure]], without invoking the wrath of [[lord-neverember|Lord Neverember]]
