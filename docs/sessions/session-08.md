@@ -1,12 +1,11 @@
 ---
 title: Face to Face
-aliases: [Session X, Face to Face]
+aliases: [Session 8, Face to Face]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2022-07-25
 ---
 # Face to Face
-
 **2022-Jul-22**
 
 *We were finally able to have an in-person session! Thanks Williams!*

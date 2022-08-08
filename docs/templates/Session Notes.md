@@ -8,6 +8,4 @@ published: {{date:YYYY-MM-DD}}
 # Episode Title
 **{{date}}**
 
-==Don't forget to update metadata!==
-
 - 
