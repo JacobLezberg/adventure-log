@@ -20,9 +20,6 @@ FROM #new_adventure AND !"templates"
 LIMIT 3
 SORT file.cday DESC
 ```
----
-# Quote Board
-- *Nothing here yet...*
 
 ---
 # Historical Archive
