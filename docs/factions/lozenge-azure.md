@@ -12,4 +12,4 @@ Tenets:
 	2. Promote prosperity by offering everyone a place
 
 ## Members
-- [[toby-keith-blackbird|Toby Keith "TK" Blackbird]]
+- [[toby-keith-blackbird|Toby Keith "TK" Blackbird]] (deceased)
