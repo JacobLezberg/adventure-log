@@ -1,5 +1,5 @@
 ---
-title: The HistOracle
+title: 02 The HistOracle
 aliases: [Session 2, The HistOracle]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure

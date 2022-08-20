@@ -3,7 +3,7 @@ title: Gundren Rockseeker
 aliases: [Gundren, Gundren Rockseeker]
 tags: [npc]
 ---
-Gundren is a successful merchant who runs a mining operation with his brothers. He hired the party to escort his wares to [[phandalin|Phandalin]], but after he was abducted by the [[cragmaws|Cragmaws]], they rescued him and he helped them get to [[wave-echo-cave|Wave Echo Cave]] to intercept [[black-spider|The Black Spider]].
+Gundren is a successful merchant who runs a mining operation with his brothers. He hired [[the-party|the party]] to escort his wares to [[phandalin|Phandalin]], but after he was abducted by the [[cragmaws|Cragmaws]], they rescued him and he helped them get to [[wave-echo-cave|Wave Echo Cave]] to intercept [[black-spider|The Black Spider]].
 
 ## Relationships
 - Gundren had two brothers

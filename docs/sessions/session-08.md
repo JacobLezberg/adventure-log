@@ -1,11 +1,12 @@
 ---
-title: Face to Face
+title: 08 Face to Face
 aliases: [Session 8, Face to Face]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2022-07-25
 ---
 # Face to Face
+
 **2022-Jul-22**
 
 *We were finally able to have an in-person session! Thanks Williams!*
@@ -18,9 +19,9 @@ published: 2022-07-25
   - He asks to chat, and when met with reluctance and disdain, offers to buy as many rounds as they want at the Stonehill Inn. Not ones to turn down free alcohol, they agree to follow and at least hear him out
 - Once settled in the corner of the empty tavern, [[toby-keith-blackbird|TK]] begins questioning them about what happened the previous night, what the goblins wanted, and whether they knew anything about the "[[nothic|one-eyed monster]]" that had attacked the [[lozenge-azure|Lozenge Azure]]
   - The adventurers gave him very little information. [[rowan-chokrotsk|Rowan]] shared [[kleb-fumpton|Kleb]]'s realization that the goblinoids worked for [[king-grohl|King Grohl]], but omitted their history with the hobgoblin.
-  - [[toby-keith-blackbird|Toby Keith]] raised [[kleb-fumpton|Kleb]]'s ire by implying that [[the-party|the party]] would not be able to protect [[Phandalin]] forever, and when pushed by [[rulkorf-alpensinger|Rulkorf]], he stated that he was merely trying to piece together the threats that challenged peace and order.
+  - [[toby-keith-blackbird|Toby Keith]] raised [[kleb-fumpton|Kleb]]'s ire by implying that [[the-party|the party]] would not be able to protect [[phandalin|Phandalin]] forever, and when pushed by [[rulkorf-alpensinger|Rulkorf]], he stated that he was merely trying to piece together the threats that challenged peace and order.
     - "You see, our mages weren't able to capture that freak last night, but we did track its location. It turns out that it returned to the same place you all departed from this morning."
-- Shocked that the bluepills had in fact successfully tracked the [[Nothic]], and realizing they had been lured into a trap, [[kleb-fumpton|Kleb]] immediately lunged at [[toby-keith-blackbird|TK]]. He managed to tackle [[toby-keith-blackbird|TK]] from across the table, but felt himself slipping into an unnatural sleep before he could do anything besides bring the man to the ground.
+- Shocked that the bluepills had in fact successfully tracked the [[nothic|Nothic]], and realizing they had been lured into a trap, [[kleb-fumpton|Kleb]] immediately lunged at [[toby-keith-blackbird|TK]]. He managed to tackle [[toby-keith-blackbird|TK]] from across the table, but felt himself slipping into an unnatural sleep before he could do anything besides bring the man to the ground.
   - [[rowan-chokrotsk|Rowan]] also moved to strike [[toby-keith-blackbird|Toby]] Keith, but fell unconscious before he could accomplish much
   - [[rulkorf-alpensinger|Rulkorf]]'s observant nature, which he had honed over the past weeks of adventure, helped him notice a pair of blue-robed figures visible through the tavern window behind [[rowan-chokrotsk|Rowan]]. Hoping that whatever magic which had rendered his compatriots unconscious had a short proximity, he rushed across the room and towards the door
     - A salvo of firebolts punches through the wall of the tavern, one of which strikes [[rulkorf-alpensinger|Rulkorf]] in the back. [[toby-keith-blackbird|Toby Keith]] draws his sword and turns to chase after the dwarf, satisfied that the others have been neutralized

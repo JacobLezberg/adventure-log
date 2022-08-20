@@ -1,5 +1,5 @@
 ---
-title: The Beginning (But Not Really)
+title: 01 The Beginning (But Not Really)
 aliases: [Session 1, The Beginning (But Not Really)]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure

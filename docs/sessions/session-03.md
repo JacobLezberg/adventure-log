@@ -1,5 +1,5 @@
 ---
-title: Poppin' Pills
+title: 03 Poppin' Pills
 aliases: [Session 3, Poppin' Pills]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure

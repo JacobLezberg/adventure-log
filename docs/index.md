@@ -3,6 +3,8 @@ Welcome to the Adventure Log! This is a record of the travels of [[rulkorf-alpen
 
 The sections below utilize the Obsidian Dataview plugin to dynamically populate tables with information from the log. Unfortunately the results of the queries are visible only in Obsidian proper, not online. Check the sidebar for more information about particular people, places, items, and events!
 
+Please see the GitHub repo for instructions on how to download ObsidianMD and view this repository locally!
+
 ---
 # Open Quests
 ```dataview

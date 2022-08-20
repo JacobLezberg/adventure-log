@@ -1,5 +1,5 @@
 ---
-title: Kicking Ass, Taking Prisoners
+title: 06 Kicking Ass, Taking Prisoners
 aliases: [Session 6, Kicking Ass, Taking Prisoners]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
@@ -20,4 +20,6 @@ published: 2022-06-18
 	- One goblin turns to flee, taking off towards the south. [[rowan-chokrotsk|Rowan]] tries to recall him with a *Command*, but his divine connection fails him. Flustered and a little desperate, the paladin takes off after him but [[rulkorf-alpensinger|Rulkorf]] impales the goblin with a trio of magic missiles, dropping him to the dirt.
 	- The rest of the goblins break formation and scatter, but are quickly cut down by [[rulkorf-alpensinger|Rulkorf]]'s barrage of magical darts and a particularly brutal thunderous blast
 	- [[rowan-chokrotsk|Rowan]] knocks the bugbear unconscious for later questioning
--  [[the-party|The party]] levels up! ![[final-fantasy-level-up.mp3]]
+-  [[the-party|The party]] levels up!
+
+![[final-fantasy-level-up.mp3]]
