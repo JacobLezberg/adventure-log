@@ -3,7 +3,7 @@ title: Skeleton Giant
 aliases: [Skeleton Giant]
 tags: [enemy, lost_mine_of_phandelver]
 ---
-![[giant-skeleton-image.webp|400]]
+![[giant-skeleton-image.png|400]]
 
 This giant skeleton was disturbed by [[the-party|the party]] near the end of their exploration of the [[wave-echo-cave|Phandelver Mine]]. Notably, when [[kleb-fumpton|Kleb]]'s sword [[calibur|Calibur]] became lodged in one of its bones and was subsequently retrieved, the runes on the blade transformed to reflect its new identity as "*[[calibur|Exossus]]*."
 
