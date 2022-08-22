@@ -9,9 +9,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Free [[lantern-spirit|the spirit trapped in the lantern]]
 - [ ] Find and kill [[black-spider|The Black Spider]]
   - [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
-
 - [ ] Acquire Displacer Beast parts to make an invisibility potion
-
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
 
@@ -24,10 +22,9 @@ An informal record of [[the-party|The Party]]'s agenda.
 - How did [[toby-keith-blackbird|TK]] know about the prisoner in the manor basement jail cell?
   - [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] believe the goblin attack may have been a false flag, and [[king-grohl|King Grohl]]'s client could have been aligned with the [[lozenge-azure|Lozenge Azure]] (or even [[lord-neverember|Lord Neverember]] himself)
 
-## Other Rumors/Notes
+## Other Rumors/Notes/Conspiracies
 
 - Recent increase in traffic at Candlekeep
-- There is a traveling circus on the road between [[phandalin|Phandalin]] and Neverwinter
 - Recent increase in outbound charters from Waterdeep
 
 ## Completed Quests

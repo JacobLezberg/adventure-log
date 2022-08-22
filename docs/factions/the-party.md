@@ -1,12 +1,12 @@
 ---
 title: The Party
-aliases: [the party, The Party]
+aliases: [the party, The Party, The Crimson Tide]
 tags: [faction]
 ---
 That's us! Name to be determined...
 
 ## Founding Members
-- [[rulkorf-alpensinger|Rulkorf Alpensinger]], dwarven coastal druid
+- [[rulkorf-alpensinger|Rulkorf Alpensinger]], dwarf coastal druid
 - [[rowan-chokrotsk|Rowan Chokrotsk]], human paladin of Tymora
 - [[kleb-fumpton|Kleb Fumpton]], human fighter
 

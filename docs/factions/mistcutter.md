@@ -1,5 +1,5 @@
 ---
-title: Miscutter
+title: Mistcutter
 aliases: [Mistcutter]
 tags: [faction]
 ---

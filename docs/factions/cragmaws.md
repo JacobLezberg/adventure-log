@@ -8,4 +8,5 @@ A bandit group that held influence in the area outside [[phandalin|Phandalin]]. 
 ## Members
 - [[king-grohl|King Grohl]]
 - [[klarg|Klarg]] (deceased)
-- [[yemick|Yemick]]
+- [[yemick|Yemick]] (former)
+- Little Dennis (former, now a Redbrand)

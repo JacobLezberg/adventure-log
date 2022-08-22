@@ -7,6 +7,12 @@ A mafia that exerted control over [[phandalin|Phandalin]], based out of the comp
 
 ## Members
 - [[glasstaff|Glasstaff]] (deceased)
-- [[nothic|Nothic]]
-- Multiple humans and bugbears
-- Multiple undead servants
+- [[nothic|Nothic]] aka Me
+- Followers
+	- Steve (human)
+	- Jared (human)
+	- Big Dennis (human)
+	- Little Dennis (bugbear), former follower of King Grohl
+	- Arath (dragonborn), former Mintarn sergeant
+	- Jarvis (undead servant)
+	- Jeeves (undead servant)

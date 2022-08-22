@@ -5,7 +5,7 @@ tags: [enemy, lost_mine_of_phandelver]
 ---
 ![[nothic-image.jpg|200]]
 
-I forget what his name was. The nothic is a mutated and corrupted mage with telepathic powers and a piercing, necrotic gaze. He is very agile and fights with his claws as well.
+Through a telepathic misunderstanding, answers to the name "Me." The nothic is a mutated and corrupted mage with telepathic powers and a piercing, necrotic gaze. He is very agile and fights with his claws as well.
 
 ## Relationships
 - Hated [[glasstaff|Glasstaff]] because he was responsible for 'acquiring' this creature. It is unclear whether the mage contributed to the nothic's creation or simply assumed the role of its master at a later point.
