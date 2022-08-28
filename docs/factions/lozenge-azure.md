@@ -5,7 +5,7 @@ tags: [faction]
 ---
 Buncha fuckin pussies, am I right?
 
-Doesn't even know that [[lozenge-gules|Lozenge Gules]] exists.
+Doesn't even know that [[lozenge-gules|Lozenge Gules]] exists (well, at least until [[kleb-fumpton|Kleb]] made his presence known in [[Phandalin]]).
 
 Tenets:
 	1. Maintain order and peace
