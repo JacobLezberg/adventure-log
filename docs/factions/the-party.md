@@ -11,4 +11,5 @@ That's us! Name to be determined...
 - [[kleb-fumpton|Kleb Fumpton]], human fighter
 
 ## Other Members
-- [[fallon|Ph'allon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])
+- [[fallon|Fallon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])
+- Gil

@@ -1,6 +1,6 @@
 ---
 title: The Harpers
-aliases: [Harpers, The Harpers]
+aliases: [Harpers, The Harpers, Those Who Harp]
 tags: [faction]
 ---
 ![[harpers_banner-5e-image.png|200]]

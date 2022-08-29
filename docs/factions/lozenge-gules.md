@@ -3,7 +3,7 @@ title: Lozenge Gules
 aliases: [Lozenge Gules, redpill]
 tags: [faction]
 ---
-Followers of the Sigma Grindset. Diametrically opposed to [[lozenge-azure|Lozenge Azure]].
+Followers of the Sigma Grindset. Diametrically opposed to [[lozenge-azure|Lozenge Azure]]. Official ideology of [[redbrands|the Redbrands]]
 
 ## Members
 - [[kleb-fumpton|Kleb Fumpton]]

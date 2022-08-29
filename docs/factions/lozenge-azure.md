@@ -5,7 +5,7 @@ tags: [faction]
 ---
 Buncha fuckin pussies, am I right?
 
-Doesn't even know that [[lozenge-gules|Lozenge Gules]] exists (well, at least until [[kleb-fumpton|Kleb]] made his presence known in [[Phandalin]]).
+Doesn't even know that [[lozenge-gules|Lozenge Gules]] exists (well, at least until [[kleb-fumpton|Kleb]] made his presence known in [[Phandalin]]). Favored by [[lord-neverember|Lord Neverember]], and as a result the traveling groups of Lozenge Azure enjoy the protection of his mintarn mercenaries.
 
 Tenets:
 	1. Maintain order and peace

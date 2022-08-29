@@ -24,3 +24,4 @@ A town off the Triboar Trail, lying in between the Sword Coast to the west and t
 - Halia -- her husband Wexton has not returned from his search for the Tomb of the Nine Gods
 - Harbin Wester -- Phandalin townmaster who went missing a while back
 - [[sildar-hallwinter|Sildar Hallwinter]] -- acting townmaster in Harbin's absence
+- [[Redbrands]] -- reformed bandit group that used to extort the town, now under [[the-party|the party]]'s leadership

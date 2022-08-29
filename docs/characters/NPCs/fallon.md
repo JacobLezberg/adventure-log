@@ -1,9 +1,10 @@
 ---
 title: Fallon
-aliases: [Fallon, Ph`allon]
+aliases: [Fallon]
 tags: [npc]
 ---
-Lorem ipsum
+A traveling bard who joined [[the-party|the party]] during their quest for the [[Spellforge]]. 
 
 ## Relationships
-- Dolor sit amet
+- Friend of [[sildar-hallwinter|Sildar]] Hallwinter
+- Member of [[the-party|the party]] and friend of [[rowan-chokrotsk|Rowan]], [[rulkorf-alpensinger|Rulkorf]], and [[kleb-fumpton|Kleb]]

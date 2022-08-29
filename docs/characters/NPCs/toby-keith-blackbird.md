@@ -8,3 +8,5 @@ Leader of a contingent of [[lozenge-azure|Lozenge Azure]], who were sent by [[lo
 ## Relationships
 
 - Went to school with [[kleb-fumpton|Kleb]], although the fighter would vehemently deny it
+- Fairly prominent member of [[lozenge-azure|Lozenge Azure]]
+	- Under the protection of [[lord-neverember|Lord Neverember]]'s mintarn mercenaries

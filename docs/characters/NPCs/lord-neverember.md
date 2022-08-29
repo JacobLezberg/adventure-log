@@ -8,4 +8,4 @@ Used to be the ruler of Waterdeep, seized control of the throne in Neverember an
 Though they are mercenaries, a large contingent of Mintarn are currently doing his bidding. Lord Neverember is a proponent of the [[lozenge-azure|Lozenge Azure]] and is directing their outreach efforts.
 
 ## Relationships
-- Dolor sit amet
+- Unknown
