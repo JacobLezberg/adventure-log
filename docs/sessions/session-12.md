@@ -33,5 +33,5 @@ published: 2022-09-02
 	- Ja'an D'enver
 	- Barack Obama
 	- [[rowan-chokrotsk|Rowan Chokrotsk]]
-	- [[kleb-fumpton|Kleb Fumpton]]
+	- Hugo Estdong ([[kleb-fumpton|Kleb Fumpton]])
 	- [[rulkorf-alpensinger|Rulkorf Alpensinger]]
