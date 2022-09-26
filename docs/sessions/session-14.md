@@ -29,4 +29,4 @@ published: 2022-09-18
 	- [[rulkorf-alpensinger|Rulkorf]] gets an uneasy feeling when he reaches for the mirror again, and feels thumping steps shaking the floorboards
 	- As [[kleb-fumpton|Kleb]] reaches for the mirror, it disappears at his touch. Realizing that he can hear his companions shouting again, [[rulkorf-alpensinger|Rulkorf]] runs back to the others through the space where the pane was
 - [[rowan-chokrotsk|Rowan]] sends out a pulse of his divine senses, and feels a celestial presence that is growing in strength
-- Stomping and sliding into view, across the gap, is a 7 and a half foot tall humanoid creature with two stump-like protrusions on its back. It stops in front of the open mirror frame, looks at the trio menacingly, and charges
+- Stomping and sliding into view, across the gap, is a 8 foot tall humanoid creature with with two stump-like protrusions on its back. It stops in front of the open mirror frame, looks at the trio menacingly, and charges

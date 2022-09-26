@@ -11,7 +11,7 @@ At just over 4 feet tall, Rulkorf stands as stout and stocky as any of his breth
 Rulkorf's supple hide armor is a patchwork of pelts and skins, and he carries a short staff across his back, fit to dwarven proportions, as well as a circular wooden shield strapped to his left arm (or stowed on his back as well). The latter is embossed with the design of a lightning strike, tendrils radiating from a darkened center. Among Rulkorf's other equipment is his druidic focus (a compass hanging from a woven cord around his neck) and a lucky trinket (a perpetually-warm obsidian shard tucked into his tunic near his heart). For a typical day's travel, Rulkorf wears a green cloak and hardy adventurer's boots.
 
 ## Backstory
-The Alpensingers are an old clan of hill dwarves with an ancestry full of mystics and practitioners of the druidic arts. Rulkorf grew up in the forests and hills of southern Faerun but fell in love with the vast horizons of the ocean.
+The Alpensingers are an old clan of hill dwarves with an ancestry full of mystics and practitioners of the druidic arts. Rulkorf grew up in the forests and hills of the southern Sword Coast but fell in love with the vast horizons of the ocean.
 
 At the young (dwarven) age of 55, Rulkorf convinced Zamar, the grizzled human captain of the bounty-hunting ship *[[mistcutter|Mistcutter]]* to hire him for his navigation and tracking skills. Rulkorf enhanced his conventional sailing abilities with a druid's propensity to commune with the tides and stars, as well as his druidic focus, a compass with sensitivity to magic. He also picked up new hand-to-hand combat skills from his crewmates and became a formidable fighter after many skirmishes with pirates and outlaws.
 
