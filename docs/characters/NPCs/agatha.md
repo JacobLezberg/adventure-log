@@ -1,6 +1,6 @@
 ---
 title: Agatha
-aliases: [Agatha, the banshee]
+aliases: [Agatha, the Conyberry banshee]
 tags: [npc]
 ---
 A banshee who haunts the abandoned town of Conyberry. She has some sort of magical capability to divine information about non-living things, including what happened to them in the past.
