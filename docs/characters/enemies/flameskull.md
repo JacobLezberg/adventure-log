@@ -1,7 +1,7 @@
 ---
 title: Flameskull
 aliases: [Flameskull, flaming skull]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[flameskull-image.png|200]]
 

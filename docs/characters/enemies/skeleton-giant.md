@@ -1,7 +1,7 @@
 ---
 title: Skeleton Giant
 aliases: [Skeleton Giant]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[giant-skeleton-image.png|400]]
 

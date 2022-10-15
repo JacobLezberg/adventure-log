@@ -1,7 +1,7 @@
 ---
 title: Aliana
 aliases: [Aliana, the shadow, the shade]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[shadow-image.jpg|200]]
 

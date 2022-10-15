@@ -12,6 +12,8 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Acquire Displacer Beast parts to make an invisibility potion
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
+- [ ] Retrieve the stolen [[bag-of-holding|Bag of Holding]] from Lavender
+	- [ ] Escape from the mirror dimension
 
 ## Mysteries/Questions
 

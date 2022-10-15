@@ -1,14 +1,14 @@
 ---
 title: {{title}}
 aliases: [{{title}}]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 Picture goes here!
 
 Lorem ipsum
 
 ## Relationships
-dolor sit amet
+- dolor sit amet
 
 ## Loot
 - consectetur

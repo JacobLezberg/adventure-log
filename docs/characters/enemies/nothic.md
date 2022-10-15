@@ -1,7 +1,7 @@
 ---
 title: Nothic
 aliases: [Nothic]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[nothic-image.jpg|200]]
 

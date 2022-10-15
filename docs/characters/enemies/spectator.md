@@ -1,7 +1,7 @@
 ---
 title: Spectator
 aliases: [Spectator]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[spectator-image.png|300]]
 

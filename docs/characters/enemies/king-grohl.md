@@ -1,7 +1,7 @@
 ---
 title: King Grohl
 aliases: [King Grohl, Grohl]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[hobgoblin-image.png|200]]
 

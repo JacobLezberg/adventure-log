@@ -1,7 +1,7 @@
 ---
 title: Klarg
 aliases: [Klarg]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 ![[bugbear-image.jpeg|200]]
 

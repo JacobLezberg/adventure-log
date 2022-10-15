@@ -1,7 +1,7 @@
 ---
 title: Glasstaff
 aliases: [Glasstaff, Iarno, Iarno Albrek, Lord Albrek]
-tags: [enemy, lost_mine_of_phandelver]
+tags: [enemy]
 ---
 Glasstaff (whose real name was Iarno Albrek) was a wizard who led the band of [[redbrands|Redbrands]] in [[phandalin|Phandalin]].
 

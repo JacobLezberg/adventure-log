@@ -29,4 +29,4 @@ published: 2022-10-09
 	- The paladin struck the killing blow, but swiftly finds himself completely surrounded and assaulted on all sides by undead. However, with his armor and shield he manages to hold his own
 	- [[kleb-fumpton|Kleb]] steels himself, and confronts his fears head-on, striding forward toward the mob of skeletons. He fights his way to [[rowan-chokrotsk|Rowan]], and as a pair, the paladin and fighter start mowing through the piles of bones
 - Having used his spyglass to roughly locate the convergence point of the magical strings tied to each skeleton, [[rulkorf-alpensinger|Rulkorf]] heads in that direction in the form of a great ape. Unable to pinpoint the nexus of the threads without a magical aid, he tosses a nearby skull into the air and notices it bounce as if it impacted something invisible. Apekorf sends the pillar of moonlight onto that location, where it soon activates
-	- The remaining skeletons drop in unison as the charred remains of the puppetmaster are revealed, its corpse singed by silvery flames
+	- The remaining skeletons drop in unison as the puppetmaster is charred by the silvery flames. Its corpse is still invisible
