@@ -31,7 +31,7 @@ published: 2022-10-14
 - [[rulkorf-alpensinger|Rulkorf]] takes his spyglass back and checks the outside of the structure (no magical effects), and the back room. That room has runes as well, in addition to some sort of magical residue under one of the beds
 	- [[kleb-fumpton|Kleb]] comes over to help him move the bedframe, and the dwarf notices a loose floorboard. He calls the others into the room as [[kleb-fumpton|Kleb]] exposes the hole
 	- The compartment contains a satchel and a tattered journal
-		- [[rowan-chokrotsk|Rowan]] digs through the former while [[rulkorf-alpensinger|Rulkorf]] looks over the latter. The bag holds two pieces of incredibly stale bread, an empty waterskin, and a simple hunter's dagger. The leather journal contains a number of entries in different handwritings:
+		- [[rowan-chokrotsk|Rowan]] digs through the former while [[rulkorf-alpensinger|Rulkorf]] looks over the latter. The bag holds two pieces of incredibly stale bread, an empty waterskin, and a simple hunter's dagger. The [[cabin-journal|leather journal]] contains a number of entries in different handwritings:
 
 > **I think I’m going to die here. I know I’m going to die in this maze but I think I’m going to die here in particular. In this shack. I don’t know if they know I’m here but they’ll probably find me soon. It doesn’t matter. At least it’ll be over. At least it’ll be over.**
 > 
