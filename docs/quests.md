@@ -36,6 +36,5 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [x] Free [[phandalin|Phandalin]] from the influence of [[glasstaff|Glasstaff]] and the [[redbrands|Redbrands]]
 - [x] Learn what happened to Bowgentle's spellbook, which disappeared after Sindras died
   - [x] Question the banshee [[Agatha]] in Conyberry
-
 - [x] Rid [[phandalin|Phandalin]] of the members of [[lozenge-azure|Lozenge Azure]], while trying not to be conspicuous or invoking the wrath of [[lord-neverember|Lord Neverember]]
   - [x] Now that they've associated [[the-party|the party]] with the [[nothic|Nothic]], protect the manor

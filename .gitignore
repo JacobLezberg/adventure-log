@@ -1,5 +1,7 @@
 .venv
 .vscode
-.obsidian
-docs/.obsidian/workspace
 site/
+
+docs/.obsidian/*
+!docs/.obsidian/community-plugins.json
+!docs/.obsidian/manifest.json

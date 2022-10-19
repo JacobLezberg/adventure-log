@@ -18,7 +18,7 @@ GROUP BY "" as "Open Quests"
 TABLE WITHOUT ID	
 	("[[" + file.name + "|" + title + "]]") AS Name,
 	dur(date(today) - file.cday) AS Age
-FROM #new_adventure AND !"templates"
+FROM !"templates"
 LIMIT 3
 SORT file.cday DESC
 ```
