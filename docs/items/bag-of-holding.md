@@ -7,4 +7,4 @@ tags: [item, equipment]
 
 A bag with some sort of internal link to an expansive void, allowing for near-limitless storage. A user may retrieve an item that had been placed inside earlier by picturing it while rummaging through the bag.
 
-There is no air inside the Bag of Holding, so it cannot safely be used to store living things. Placing one Bag of Holding inside another will cause some sort of paradoxical implosion-explosion thing, so don't do that.
+There is no air inside the Bag of Holding, so it cannot safely be used to store living things. Placing one Bag of Holding inside another will cause some sort of paradoxical implosion-explosion thing, so don't do that. Also placing the bag of holding within ANY extradimensional space (portable hole, rope trick pocket dimension, etc.) will trigger an implosion that will scatter the party to the edges of the planes.
