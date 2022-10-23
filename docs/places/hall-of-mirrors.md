@@ -1,6 +1,6 @@
 ---
 title: Hall of Mirrors
-aliases: [hall-of-mirrors]
+aliases: [Hall of Mirrors]
 tags: [location]
 ---
 Lorem ipsum

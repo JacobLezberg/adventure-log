@@ -22,8 +22,8 @@ FROM !"templates"
 LIMIT 3
 SORT file.cday DESC
 ```
-
 ---
+
 # Historical Archive
 ```dataview
 TABLE WITHOUT ID

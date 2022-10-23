@@ -3,7 +3,7 @@ title: Cabin Journal
 aliases: [cabin journal]
 tags: [item]
 ---
-This tattered leather journal was found by the party, hidden under a floorboard in the cabin in the Mirror Dimension of the Hall of Mirrors. It contained entries from seven separate writers, which are reproduced below.
+This tattered leather journal was found by [[the-party|the party]], hidden under a floorboard in the cabin in the Mirror Dimension of the [[hall-of-mirrors|Hall of Mirrors]]. It contained entries from seven separate writers, which are reproduced below.
 
 > **I think I’m going to die here. I know I’m going to die in this maze but I think I’m going to die here in particular. In this shack. I don’t know if they know I’m here but they’ll probably find me soon. It doesn’t matter. At least it’ll be over. At least it’ll be over.**
 > 
@@ -25,3 +25,8 @@ This tattered leather journal was found by the party, hidden under a floorboard 
 > Been here some time and are still going strong. All the rooms we’ve found are full of monsters except for one that was empty. The search continues, but we’ve found friends too. Maybe.
 > 
 > Aviva, Garth, and Tanduil are gone and the room that was empty wasn’t empty after all. I don’t know what happened. It was all so fast. There weren’t any of those invisible legged things, but something got her. Something ancient and robed and terrifying got them. And now we can’t close the doorway there. Corellon. Gods. Save us. We were doing so well.**
+
+[[kleb-fumpton|Kleb]] added the following entry (along with a [[lozenge-gules|Lozenge Gules]] pamphlet):
+> *So, it looks like you're trapped in here too. Listen, I know how you got in here: you or one of your party got succubus'ed by some wench . I think it's now a solid moment for you to reconsider your ways and realize that simpin' ain't easy. Now I know that this may be hard to handle. Simping is all you know, the path of least resistance that you've been following for years. But perhaps your current situation has revealed to you the fallacy of this line of thought. If you are ready to change, embrace your true masculine self, and maybe make it out of this hell, take a long hard look in any of the conveniently located mirrors, and read through the pamphlet between these pages.
+   The lozenge gules welcomes you,
+   Kleb Fumpton*

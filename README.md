@@ -34,7 +34,7 @@ Once you've installed a subset of the tools,
 1. Clone this repo.
    1. If this is your first time working on github, you'll need to set up an SSH key so it can authenticate your download/clone requests. Instructions [can be found here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
    1. Once you have a linked SSH key, either use a GUI tool of your choice or execute the command `git clone git@github.com:JacobLezberg/adventure-log.git` in the Terminal.
-1. In Obsidian, open the folder `adventure-log/docs` as your Vault. The `.obsidian` folder should be processed automatically to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible".
+1. In Obsidian, open the folder `adventure-log/docs` as your Vault. The `.obsidian` folder should be processed automatically to give you the proper settings, but if not, make sure that `Use [[Wikilinks]]` is enabled and `New link format` is set to "Shortest path when possible". Also enable "Community Plugins" (i.e. turn off Safe Mode) and install the "Dataview" plugin to get the fancy dynamic sections in `docs/index.md` to work.
 
 The steps above should only need to be done once. From then on, follow the instructions below:
 

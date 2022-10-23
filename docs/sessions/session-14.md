@@ -11,7 +11,7 @@ published: 2022-09-18
 - Lavender places laurels on the heads of the podium finishers and gives [[rowan-chokrotsk|Rowan]] a peck on his cheek, but she recognizes [[kleb-fumpton|Kleb]] and [[rowan-chokrotsk|Rowan]] and is on guard
 	- The victims of her thievery subtly confront her on the podium, but notice that she seems to be under duress of some sort of magical influence. She agrees to accompany them to the afterparty
 - [[rowan-chokrotsk|Rowan]] tries to heal [[kleb-fumpton|Kleb]] a bit, which does in fact suceed, but not entirely to the degree [[rowan-chokrotsk|Rowan]] intended. He has a connection with Tymora again, but he's a little rusty
-- Lavender takes them to a doorway labeled "Hall of Mirrors" and walks through it, but instead of coming out the other side, she vanishes. [[rowan-chokrotsk|Rowan]] follows her and disappears as well
+- Lavender takes them to a doorway labeled "[[hall-of-mirrors|Hall of Mirrors]]" and walks through it, but instead of coming out the other side, she vanishes. [[rowan-chokrotsk|Rowan]] follows her and disappears as well
 	- [[kleb-fumpton|Kleb]] and [[rulkorf-alpensinger|Rulkorf]] are more suspicious, but their quick investigation of the door yields nothing, so they head through the portal
 	- They find themselves surrounded by a set of 8-foot-tall mirrors that spiral off an unknown distance and see a starry black sky above
 		- [[rulkorf-alpensinger|Rulkorf]], using his compass, innate senses, and knowledge of the stars, notices that they are far more south and east than before, and seem to have changed heading (north is a different orientation)
