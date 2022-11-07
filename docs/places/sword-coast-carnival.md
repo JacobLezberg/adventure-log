@@ -23,6 +23,7 @@ A traveling fair which [[the-party|the party]] visited at the junction of the Hi
 - Bulette Races/Stage
 	- [[kleb-fumpton|Kleb]], [[rowan-chokrotsk|Rowan]], and [[rulkorf-alpensinger|Rulkorf]] competed in a race to win the hand of "Lavender," the woman who stole from them, so that they could retrieve their stuff
 	- ![[bulette-drift-image.jpg|300]]
+- A "Hall of Mirrors," which is a portal to the [[hall-of-mirrors|Hall of Mirrors]]
 
 ## Inhabitants
 - Lavender Spellman -- [[bag-of-holding]]-thieving wench

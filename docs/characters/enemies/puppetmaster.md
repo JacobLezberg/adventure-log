@@ -1,6 +1,6 @@
 ---
 title: Puppetmaster
-aliases: [Puppetmaster, Marionette]
+aliases: [puppetmaster, marionettist]
 tags: [enemy]
 ---
 An invisible creature that lives in the reflection-dimension of the mirror maze. It's exact form and capabilities are not fully known, but it has a human head and three pairs of appendages that act as legs.
