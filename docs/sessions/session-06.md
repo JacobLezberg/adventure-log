@@ -1,8 +1,8 @@
 ---
 title: 06 Kicking Ass, Taking Prisoners
 aliases: [Session 6, Kicking Ass, Taking Prisoners]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-06-18
 ---
 # Kicking Ass, Taking Prisoners

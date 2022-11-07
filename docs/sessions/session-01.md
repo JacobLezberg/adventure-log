@@ -1,8 +1,8 @@
 ---
 title: 01 The Beginning (But Not Really)
 aliases: [Session 1, The Beginning (But Not Really)]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-03-11
 ---
 # The Beginning ([[session-0.5#The Story So Far|But Not Really]])

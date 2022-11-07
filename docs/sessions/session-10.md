@@ -1,8 +1,8 @@
 ---
 title: 10 Interrogation
 aliases: [Session 10, Interrogation]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-08-14
 ---
 # Interrogation

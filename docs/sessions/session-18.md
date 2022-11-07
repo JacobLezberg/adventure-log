@@ -1,8 +1,8 @@
 ---
 title: 18 The Forlorn Cabin
 aliases: [Session 18, The Forlorn Cabin]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-10-14
 ---
 # The Forlorn Cabin

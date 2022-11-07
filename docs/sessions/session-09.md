@@ -1,8 +1,8 @@
 ---
 title: 09 Crackling Doom
 aliases: [Session 9, Crackling Doom]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-08-07
 ---
 # Crackling Doom

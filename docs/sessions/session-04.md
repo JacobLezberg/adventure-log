@@ -1,8 +1,8 @@
 ---
 title: 04 Schemes & Maneuvers
 aliases: [Session 5, Schemes & Maneuvers]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-06-05
 ---
 # Schemes & Maneuvers

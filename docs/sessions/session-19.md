@@ -1,8 +1,8 @@
 ---
 title: 19 Guardian of the Labyrinth
 aliases: [Session 19, Guardian of the Labyrinth]
-tags: [session_notes, new_adventure, spooky_session]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm, spooky_session]
+story_arc: The Mirror Realm
 published: 2022-10-22
 ---
 # Guardian of the Labyrinth

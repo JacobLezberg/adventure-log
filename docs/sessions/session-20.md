@@ -1,8 +1,8 @@
 ---
 title: 20 An Exercise in Self-Reflection
 aliases: [Session 20, An Exercise in Self-Reflection]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-11-05
 ---
 # An Exercise in Self-Reflection

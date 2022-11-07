@@ -1,8 +1,8 @@
 ---
 title: 05 Swaying Hearts and Minds
 aliases: [Session 5, Swaying Hearts and Minds]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-06-12
 ---
 # Swaying Hearts and Minds

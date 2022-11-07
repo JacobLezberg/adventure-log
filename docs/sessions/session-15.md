@@ -1,8 +1,8 @@
 ---
 title: 15 Going in Circles
 aliases: [Session 15, Going in Circles]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-09-25
 ---
 # Going in Circles

@@ -9,11 +9,10 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Free [[lantern-spirit|the spirit trapped in the lantern]]
 - [ ] Find and kill [[black-spider|The Black Spider]]
   - [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
-- [ ] Acquire Displacer Beast parts to make an invisibility potion
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
-- [ ] Retrieve the stolen [[bag-of-holding|Bag of Holding]] from Lavender
-	- [ ] Escape from the mirror dimension
+- [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
+
 
 ## Mysteries/Questions
 
@@ -38,3 +37,5 @@ An informal record of [[the-party|The Party]]'s agenda.
   - [x] Question the banshee [[Agatha]] in Conyberry
 - [x] Rid [[phandalin|Phandalin]] of the members of [[lozenge-azure|Lozenge Azure]], while trying not to be conspicuous or invoking the wrath of [[lord-neverember|Lord Neverember]]
   - [x] Now that they've associated [[the-party|the party]] with the [[nothic|Nothic]], protect the manor
+- [x] Retrieve the stolen [[bag-of-holding|Bag of Holding]] from Lavender
+	- [x] Escape from the [[hall-of-mirrors|mirror dimension]]

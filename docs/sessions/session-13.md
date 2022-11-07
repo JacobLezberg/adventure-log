@@ -1,8 +1,8 @@
 ---
 title: 13 Riding in the 90s
 aliases: [Session 13, Riding in the 90s]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-09-11
 ---
 # Riding in the 90s

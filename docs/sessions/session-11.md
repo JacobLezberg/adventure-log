@@ -1,8 +1,8 @@
 ---
 title: 11 Back on the Road
 aliases: [Session 11, Back on the Road]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-08-21
 ---
 # Back on the Road
@@ -11,7 +11,7 @@ published: 2022-08-21
 - [[rulkorf-alpensinger|Rulkorf]] runs back to the others and tells them that the rings allow for a telepathic link. After a bunch of fumbling, the group manages to deduce that pressing the emerald inset on the band of the ring triggers the thought-broadcast.
 	- They note that there is probably a range-based limit (unconfirmed), and there is no separate channel or encryption or anything, so to be wary of others nearby with similar capability (such as other [[lozenge-azure|bluepill]] mages)
 - The group heads inside to interrogate the dragonborn sergeant. [[kleb-fumpton|Kleb]] is pleased that all 5 of the prisoners seem to be receptive to the tenets of [[lozenge-gules|Lozenge Gules]], and releases them from their cells. They are referred to Dennis, Steve, and Jared (three Redbrand recruits) for orientation and induction.
-	- The group pull the dragonborn aside, who's name is Arath, for some questions:
+	- The group pull the dragonborn aside, whose name is Arath, for some questions:
 		- His group of mintarn was sent by [[lord-neverember|Lord Neverember]] to support the [[lozenge-azure|Lozenge Azure]] contingent and protect them. While in the field, [[toby-keith-blackbird|TK]] gave the order to infiltrate the manor, and leave no survivors, including the goblinoid hostage
 		- Arath and [[kleb-fumpton|Kleb]] build a bit of a rapport, both having military background
 		- [[rowan-chokrotsk|Rowan]] asks whether Arath knew of [[king-grohl|King Grohl]], which he answers in the negative

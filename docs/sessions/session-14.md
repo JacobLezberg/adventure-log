@@ -1,8 +1,8 @@
 ---
 title: 14 Labyrinth of Mirrors
 aliases: [Session 14, Labyrinth of Mirrors]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-09-18
 ---
 # Labyrinth of Mirrors

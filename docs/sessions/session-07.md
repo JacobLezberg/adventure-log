@@ -1,8 +1,8 @@
 ---
 title: 07 Regroup & Debrief
 aliases: [Session 7, Regroup & Debrief]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-07-09
 ---
 # Regroup & Debrief

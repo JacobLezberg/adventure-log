@@ -1,8 +1,8 @@
 ---
 title: 16 Marionette Monster
 aliases: [Session 16, Marionette Monster]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-10-02
 ---
 # Marionette Monster

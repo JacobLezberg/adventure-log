@@ -1,8 +1,8 @@
 ---
 title: 17 Spooky Scary Skeletons
 aliases: [Session 17, Spooky Scary Skeletons]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, mirror_realm]
+story_arc: The Mirror Realm
 published: 2022-10-09
 ---
 # Spooky Scary Skeletons

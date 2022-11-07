@@ -1,8 +1,8 @@
 ---
 title: 03 Poppin' Pills
 aliases: [Session 3, Poppin' Pills]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-05-14
 ---
 # Poppin' Pills

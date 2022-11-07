@@ -1,8 +1,8 @@
 ---
 title: 02 The HistOracle
 aliases: [Session 2, The HistOracle]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, lozenge_azure]
+story_arc: The Lozenge Azure
 published: 2022-03-19
 ---
 # The HistOracle
