@@ -9,7 +9,7 @@ Glasstaff (whose real name was Iarno Albrek) was a wizard who led the band of [[
 
 - Had a pet rat as a familiar. Little is known about the rat because after it zapped [[kleb-fumpton|Kleb]] with arcane electricity, he obliterated it.
 - Worked for the [[black-spider|The Black Spider]] in some capacity, as he was given [[instructions-for-iarno-albrek.jpg|instructions]] to apprehend [[the-party|the party]].
-- Created (or otherwise 'acquired') the [[nothic|Nothic]]. It hated him.
+- Created (or otherwise 'acquired') the [[nothic|Nothic]]. It hated him and ate his corpse upon being captured and killed by the party.
 
 ## Loot
 
