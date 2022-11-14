@@ -19,7 +19,7 @@ published: 2022-08-21
 		- Feeling like a new bugbear, he says that he is taking the name Dennis as well. To avoid confusion, [[kleb-fumpton|Kleb]] proposes the monikers Little Dennis & Big Dennis, to which the bugbear adopts "Little Dennis."
 		- He has no knowledge of [[king-grohl|King Grohl]]'s connections, unfortunately, and had never met [[toby-keith-blackbird|TK]].
 - On the way back to Stonehill Inn for the night, [[rulkorf-alpensinger|Rulkorf]] feels an unseasonal chill in the air. He checks the weather with his Druidcraft, which shows that it should be warm and clear-skied in the near future.
-- [[the-party|The party]] resolve to leave for Neverwinter first thing in the morning, in the hopes that they can learn more about the workings of the [[lozenge-azure|Lozenge Azure]], and perhaps interfere with their machinations
+- [[the-party|The party]] resolve to leave for [[Neverwinter]] first thing in the morning, in the hopes that they can learn more about the workings of the [[lozenge-azure|Lozenge Azure]], and perhaps interfere with their machinations
 	- [[the-party|The party]] stock up on a few supplies from Barthen's, say goodbye to [[sister-garaele|Sister Garaele]] (who blesses them), and head out, using the abandoned wagon left behind by the [[lozenge-azure|Lozenge Azure]] mages.
 - [[the-party|The party]] has been in [[phandalin|Phandalin]] for a quite a few weeks and is happy for the change of scenery -- especially [[rulkorf-alpensinger|Rulkorf]]
 - At the junction of the High Road and Triboar Trail, the adventurers comes upon the traveling circus they had heard about! They park the wagon and head into the [[sword-coast-carnival|Sword Coast Carnival]]

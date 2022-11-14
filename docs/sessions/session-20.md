@@ -47,7 +47,7 @@ published: 2022-11-05
 - They retrieve the treasure that was hidden by the fey con-artist running the chess tent. They were true to their word, and [[the-party|the party]] finds 176 silver, 5 gold ingots, and a brass candelabra buried there
 	- They use their new income to buy a couple potions of healing from the potion seller before setting off in search of Lavender
 - They encounter a group of carnies and [[kleb-fumpton|Kleb]] lodges his complaint about the carnival...
-	- ...with two of their heads. Upon smashing into the picnic table, both immediately fall unconscious
+	- ...in two of their heads. Upon smashing into the picnic table, both immediately fall unconscious
 - One of the remaining ones, in absolute terror, leads the group to the ringmaster, who is talking to Lavender
 	- The ringmaster claims that the [[hall-of-mirrors|mirror dimension]] was only discovered about an hour ago, and will be removed imminently. He is exceedingly apologetic, but not initially willing to do much. After some *convincing*, he agrees to replace the stolen money and equipment
 	- In the discussion, Lavender rolls up her sleeve and reveals the tattoo that the group saw on the arms of the mirror-dimension impostors.

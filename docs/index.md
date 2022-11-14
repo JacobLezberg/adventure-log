@@ -33,6 +33,6 @@ TABLE WITHOUT ID
 FROM "sessions"
 SORT file.cday ASC
 GROUP BY story_arc AS arc
-SORT arc DESC
+SORT arc ASC
 ```
 ---

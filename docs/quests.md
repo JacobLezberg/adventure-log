@@ -12,6 +12,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
 - [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
+	- [ ] Secure passage on a boat to reach the Candlekeep library in a reasonable amount of time
 
 
 ## Mysteries/Questions
@@ -22,6 +23,7 @@ An informal record of [[the-party|The Party]]'s agenda.
   - What happened to Wexton, the husband of Halia ([[phandalin|Phandalin]] Miner's Exchange), who was searching for the tomb?
 - How did [[toby-keith-blackbird|TK]] know about the prisoner in the manor basement jail cell?
   - [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] believe the goblin attack may have been a false flag, and [[king-grohl|King Grohl]]'s client could have been aligned with the [[lozenge-azure|Lozenge Azure]] (or even [[lord-neverember|Lord Neverember]] himself)
+- Who designed/orchestrated the Hall of Mirrors? (and what does their symbol mean?)
 
 ## Other Rumors/Notes/Conspiracies
 
