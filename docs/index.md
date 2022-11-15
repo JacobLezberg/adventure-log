@@ -33,6 +33,9 @@ TABLE WITHOUT ID
 FROM "sessions"
 SORT file.cday ASC
 GROUP BY story_arc AS arc
-SORT arc ASC
+SORT choice(arc = "The Lost Mine of Phandelver", "1",
+	choice(arc = "The Lozenge Azure", "2",
+	choice(arc = "The Mirror Realm", "3",
+	"other")))
 ```
 ---
