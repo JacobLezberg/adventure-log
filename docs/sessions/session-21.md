@@ -21,7 +21,7 @@ published: 2022-11-13
 - The first order of business is lodging, which [[the-party|the party]] secures at the Umber Hulk's Shell
 	- [[kleb-fumpton|Kleb]] pays extra for a room for himself. The others opt for simple bunks in the communal area
 	- They break for their individual goals, agreeing to reconvene at dusk
-- [[rulkorf-alpensinger|Rulkorf]] heads to the Beached Leviathan, a party boat moored at the [[Neverwinter]] docks that functions as a tavern
+- [[rulkorf-alpensinger|Rulkorf]] heads to the *Beached Leviathan*, a party boat moored at the [[Neverwinter]] docks that functions as a tavern
 	- He has little luck getting an in with anyone there and decides to stroll down to the docks themselves
 	- A water genasi is stationed at the harbormaster's quarters,. He is very confused and hard of hearing, but after a small bribe he tells [[rulkorf-alpensinger|Rulkorf]] about two ships heading to Baldur's Gate soon: The Oremaster and The Silent Knight
 	- Hoping the Oremaster might have a dwarven crew that could be more sympathetic to him, [[rulkorf-alpensinger|Rulkorf]] goes to find it
@@ -33,6 +33,6 @@ published: 2022-11-13
 	- He recommends the Chasm District and the Moonstone Mask for each of those objectives
 	- [[kleb-fumpton|Kleb]] finds a print shop called "Pressing Matters" in the Chasm District that makes designs for shirts and tunics and pays them to print copies of his newest "[[lozenge-azure|Lozenge Azure]] attack ad" pamphlet
 		- The owner, Branklin, is strongly anti-establishment and sympathetic to what [[kleb-fumpton|Kleb]] is trying to do
-		- [[kleb-fumpton|Kleb]] buys 150 copies at 6 copper each (9 gold total), and Franklin also quotes him a price for posters in the future (and puts him in touch with a friend and contact named Guillermo). 4 gold are a deposit, with the rest due on completion
+		- [[kleb-fumpton|Kleb]] buys 150 copies at 6 copper each (9 gold total), and Branklin also quotes him a price for posters in the future (and puts him in touch with a friend and contact named Guillermo). 4 gold are a deposit, with the rest due on completion
 	- On a message board in town, [[kleb-fumpton|Kleb]] sees a Lozenge Gule post denouncing the city watch's un-chad-ness and a general invitation to fight the author. [[kleb-fumpton|Kleb]] posts a response accepting the duel
 - [[rulkorf-alpensinger|Rulkorf]] also buys Navigator's tools and Mason's tools

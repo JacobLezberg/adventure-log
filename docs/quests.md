@@ -12,7 +12,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
 - [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
-	- [ ] Secure passage on a boat to reach the Candlekeep library in a reasonable amount of time
+	- [x] Secure passage on a boat to reach the Candlekeep library in a reasonable amount of time
 
 
 ## Mysteries/Questions

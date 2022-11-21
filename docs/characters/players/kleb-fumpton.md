@@ -3,7 +3,7 @@ title: Kleb Fumpton
 aliases: [Kleb, Kleb Fumpton]
 tags: [Zed, pc, player]
 ---
-A human fighter who impresses others with his outstanding physical fitness and imposingly masculine personality. Watch your girl.
+A 19-year-old human fighter who impresses others with his outstanding physical fitness and imposingly masculine personality. Watch your girl.
 
 
 ## Appearance

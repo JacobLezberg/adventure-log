@@ -3,7 +3,7 @@ title: Rowan Chokrotsk
 aliases: [Rowan, Rowan Chokrotsk]
 tags: [Shivam, pc, player]
 ---
-A human paladin, follower of Tymora, and champion of the common man
+A human paladin, follower of Tymora, and champion of the common man. Rowan is 26 years old
 
 ## Appearance
 
