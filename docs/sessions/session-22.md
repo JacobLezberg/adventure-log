@@ -24,7 +24,7 @@ published: 2022-11-20
 	- [[rulkorf-alpensinger|Rulkorf]] turns into a crab and **raves**. The DJ loves it and starts transmogrifying people as they get into it
 	- [[kleb-fumpton|Kleb]] chats up a girl and is led upstairs. He is super excited until he notices a pentagram drawn in blood on the floor of the bedroom
 		- The girl closes the door behind [[kleb-fumpton|Kleb]] as he sees a bald figure in red robes with a symbol drawn on his forehead. The man magically paralyses [[kleb-fumpton|Kleb]]
-		- The pentagram begins to glow as the robed man raises his hand and the cultists girl draws a dagger. [[kleb-fumpton|Kleb]] manages to escape the hold and turns the dagger back on its wielder, stabbing her once and then throwing it at the man (but missing)
+		- The pentagram begins to glow as the robed man raises his hand and the cultist girl draws a dagger. [[kleb-fumpton|Kleb]] manages to escape the hold and turns the dagger back on its wielder, stabbing her once and then throwing it at the man (but missing)
 		- After a chance to draw his weapons, [[kleb-fumpton|Kleb]] makes short work of his assailants, tossing them both out the window of this room into the ocean
 		- [[kleb-fumpton|Kleb]] returns to the main floor to find Rulkrab dancing on [[rowan-chokrotsk|Rowan]]'s shoulders and rejoins [[the-party|the party]]
 - As the crowd eventually clears out and [[the-party|the party]] dies down, [[the-party|the party]] make their way down the gangplank and back to the Umber Hulk's Shell. They settle in for the night and get some rest

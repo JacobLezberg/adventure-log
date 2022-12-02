@@ -29,7 +29,7 @@ published: 2022-11-13
 - [[rowan-chokrotsk|Rowan]] goes shopping at an armory, The Last Dagger. He explains his desire for a more lethal weapon to the rock gnome at the counter, who procures an array of morningstars and longswords
 	- The magic swords feature an ice enchantment, an infusion of lightning, and a "rockette" blade that can be fired with a button press, respectively
 	- The paladin trades his mace (and 25 gold) for the rocket sword (with 30 day warranty)
-- [[kleb-fumpton|Kleb]] goes up to the prporietor of the Umber Hulk's Shell and inquires about local printing presses and women of low standards
+- [[kleb-fumpton|Kleb]] goes up to the proprietor of the Umber Hulk's Shell and inquires about local printing presses and women of low standards
 	- He recommends the Chasm District and the Moonstone Mask for each of those objectives
 	- [[kleb-fumpton|Kleb]] finds a print shop called "Pressing Matters" in the Chasm District that makes designs for shirts and tunics and pays them to print copies of his newest "[[lozenge-azure|Lozenge Azure]] attack ad" pamphlet
 		- The owner, Branklin, is strongly anti-establishment and sympathetic to what [[kleb-fumpton|Kleb]] is trying to do

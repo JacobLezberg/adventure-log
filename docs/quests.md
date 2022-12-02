@@ -24,6 +24,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - How did [[toby-keith-blackbird|TK]] know about the prisoner in the manor basement jail cell?
   - [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] believe the goblin attack may have been a false flag, and [[king-grohl|King Grohl]]'s client could have been aligned with the [[lozenge-azure|Lozenge Azure]] (or even [[lord-neverember|Lord Neverember]] himself)
 - Who designed/orchestrated the Hall of Mirrors? (and what does their symbol mean?)
+- Why have the lifeforces of the deceased recently tended to linger for a much shorter time in the world of the living (according to Match)?
 
 ## Other Rumors/Notes/Conspiracies
 
