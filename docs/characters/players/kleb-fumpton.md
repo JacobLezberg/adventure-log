@@ -26,6 +26,7 @@ Kleb Fumpton is a young man who, if not for his impressive musculature, would be
 
 ## Special Possessions
 - [[calibur|Calibur]]/[[calibur|Exossis]], the sword not pulled from the stone, but the bone.
+- Door Knocker, a war hammer capable of casting the Knock spell once a day (for super cool tactical breaches)
 - List of impressive enemies (based on damage done to Kleb). Mostly full of inanimate objects
 - Seemingly unending supply of [[lozenge-gules|Lozenge Gules]] promotional pamphlets.
 - Bottle of Cologne No. 4 
