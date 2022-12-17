@@ -47,4 +47,4 @@ published: 2022-12-04
 ## Round 6
 - [[kleb-fumpton|Kleb]] disperses the pirate witch's afterimages with a couple attacks, which let his warhammer strike true
 - [[rowan-chokrotsk|Rowan]] uses a bench on the [[Oremaster]]'s deck to vault the ball bearing trap he had laid earlier and comes to the aid of a sailor who is locked in combat with a pirate
-- The remaining pirates throw down their weapons in surrender, with the exception of a couple fighters on the stern who are too busy in combat to notice the loss of their leader and the decimation of their ranks
+- Despite the loss of their leader and the decimation of their ranks, the remaining pirates refuse to surrender
