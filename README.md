@@ -4,7 +4,7 @@
   <a href="https://github.com/JacobLezberg/adventure-log/commits/main">
     <img src="https://img.shields.io:/github/last-commit/jacoblezberg/adventure-log"></img></a>
   <a href="https://github.com/JacobLezberg/adventure-log/actions/">
-    <img src="https://img.shields.io/github/workflow/status/jacoblezberg/adventure-log/ci"></a>
+    <img src="https://img.shields.io/github/actions/workflow/status/jacoblezberg/adventure-log/ci.yml?branch=main"></a>
 </p>
 
 # D&D Adventure Log
