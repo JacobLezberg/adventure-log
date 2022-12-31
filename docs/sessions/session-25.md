@@ -1,5 +1,5 @@
 ---
-title: 25 Episode Title
+title: 25 Towing Thunderbird
 aliases: [Session 25, Towing Thunderbird]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
@@ -33,5 +33,5 @@ published: 2022-12-16
 	- [[rowan-chokrotsk|Rowan]] spends some time investigating the history of the pirate ship, and learns its name from a message scratched into a bunk: The Thunderbird
 		- [[rulkorf-alpensinger|Rulkorf]] has heard of the Thunderbird as a fairly storied vessel with bounty on it
 	- [[kleb-fumpton|Kleb]] tries to teach the prisoners how to read so that they might eventually grasp his pamphlets and become redpilled
-- After a slightly longer journey than planned, the [[Oremaster]] pulls into the deep-water port of Waterdeep, along with the Thunderbird
-	- A magistrate comes on board the Thunderbird with a handful of guards, and declares those on board, including [[the-party|the party]], to be under arrest effective immediately
+- After a slightly longer journey than planned, the [[Oremaster]] approaches the deep-water port of [[Waterdeep]], with the Thunderbird in tow
+	- A small boat pulls up next to the Oremaster, holding a local magistrate as well as a handful of guards, and declares those on board, including [[the-party|the party]], to be under arrest effective immediately

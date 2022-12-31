@@ -24,7 +24,7 @@ Deciding the [[nothic|Nothic]] might be useful, [[the-party|the party]] heads up
 
  1. Increase in traffic at Candlekeep
  2. Traveling circus on the road between [[phandalin|Phandalin]] and [[Neverwinter]]
- 3. Increase in outbound charters from Waterdeep
+ 3. Increase in outbound charters from [[Waterdeep]]
 
 - The group heads out via the central tunnel that they had previously ignored, which eventually takes them aboveground to the north of town
 - On their way back to the inn, [[kleb-fumpton|Kleb]] practices with his broom to try and control his speed more reliably. They agree to meet with [[sister-garaele|Garaele]] (and maybe Halia in the morning), and head to bed
