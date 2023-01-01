@@ -19,7 +19,7 @@ published: 2022-08-14
   - [[toby-keith-blackbird|TK]] told them to storm the manor, take no prisoners, and take the prisoner from [[the-party|the party]]'s jail. It is unclear how they knew about that bugbear
   - The [[lozenge-azure|Lozenge Azure]] were not expecting the goblin attack (or the [[nothic|Nothic]]'s harassment).
     - [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] firmly believe (and [[rowan-chokrotsk|Rowan]] maybe believes?) that the attack was a false flag, organized by [[lord-neverember|Lord Neverember]] to improve the image of the [[lozenge-azure|Lozenge Azure]] diplomatic party
-- After confirming that the rookie, named Ben, will go home and quit mercenary work rather than return to [[Neverwinter]], [[the-party|the party]] keep their promise to the other mintarn and let the boy leave
+- After confirming that the rookie, named Ben, will go home and quit mercenary work rather than return to [[neverwinter|Neverwinter]], [[the-party|the party]] keep their promise to the other mintarn and let the boy leave
   - The group take the dragonborn and the other mintarn down to the jail cell, and let the [[nothic|Nothic]] take care of the bodies
 - [[rowan-chokrotsk|Rowan]] feels a flicker of Tymora's presence return to him as [[the-party|the party]] settles in for a short rest. [[kleb-fumpton|Kleb]] attunes to the Bahamut breastplate he's been carrying, learning that it provides resistance to breath weapons.
 - [[kleb-fumpton|Kleb]] heads back into town to visit the blacksmith about his armor, [[rulkorf-alpensinger|Rulkorf]] heads out for a walk and inspects the rings he took from the mages, and [[rowan-chokrotsk|Rowan]] heads to his quarters to rest and reflect

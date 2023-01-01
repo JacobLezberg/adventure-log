@@ -23,8 +23,8 @@ Deciding the [[nothic|Nothic]] might be useful, [[the-party|the party]] heads up
 - [[the-party|The party]] ask the [[nothic|Nothic]] to harass the [[lozenge-azure|Lozenge Azure]] and help drive them out of town. He agrees, and also provides a shortlist of the semi-interesting rumors and secrets he's discovered recently. Specifically,
 
  1. Increase in traffic at Candlekeep
- 2. Traveling circus on the road between [[phandalin|Phandalin]] and [[Neverwinter]]
- 3. Increase in outbound charters from [[Waterdeep]]
+ 2. Traveling circus on the road between [[phandalin|Phandalin]] and [[neverwinter|Neverwinter]]
+ 3. Increase in outbound charters from [[waterdeep|Waterdeep]]
 
 - The group heads out via the central tunnel that they had previously ignored, which eventually takes them aboveground to the north of town
 - On their way back to the inn, [[kleb-fumpton|Kleb]] practices with his broom to try and control his speed more reliably. They agree to meet with [[sister-garaele|Garaele]] (and maybe Halia in the morning), and head to bed

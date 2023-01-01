@@ -3,7 +3,7 @@ title: Fallon
 aliases: [Fallon]
 tags: [npc]
 ---
-A traveling bard who joined [[the-party|the party]] during their quest for the [[Spellforge]]. 
+A traveling bard who joined [[the-party|the party]] during their quest for the [[spellforge|Spellforge]]. 
 
 ## Relationships
 - Friend of [[sildar-hallwinter|Sildar]] Hallwinter

@@ -7,4 +7,4 @@ A priestess of Tymora, Gariele calls [[phandalin|Phandalin]] home. She takes car
 
 ## Relationships
 - Friend of [[the-party|the party]]
-- Member of the [[Harpers]]
+- Member of the [[harpers|Harpers]]

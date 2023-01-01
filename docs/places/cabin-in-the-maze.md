@@ -12,4 +12,4 @@ Embed here!
 - The [[cabin-journal|cabin journal]] was hidden under a floorboard
 
 ## Inhabitants
-- [[Hotan]]
+- [[hotan|Hotan]]

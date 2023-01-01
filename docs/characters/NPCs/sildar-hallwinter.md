@@ -9,4 +9,4 @@ A human who works as the head of security for his friend [[gundren-rockseeker|Gu
 
 - Friend of [[gundren-rockseeker|Gundren Rockseeker]] and [[yemick|Yemick]]
 - Member of the Lords' Alliance
-- Acting townmaster of [[Phandalin]] (in the absence of Harbin Wester)
+- Acting townmaster of [[phandalin|Phandalin]] (in the absence of Harbin Wester)

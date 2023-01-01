@@ -10,15 +10,18 @@ The mirror dimension is in some ways less labyrithine as it does not shuffle its
 The clones from the mirror dimension are all marked with a [[mirror-dimension-symbol-image.jpeg|symbol of unknown origin]], which was also inscribed on the dais in the guardian's lair. Many of those clones have escaped from the Hall into the [[sword-coast-carnival|Sword Coast Carnival]] and beyond.
 
 ## Map
+
 This labyrinth has no known map, as no one has been both interested in documenting it and survived to escape.
 
 ## Points of Interest
+
 - The Cabin
 - Guardian's Lair - a large room which housed a pedestal and a defense mechanism in the form of the [[labyrinth-guardian|Labyrinth Guardian]]
 
 ## Inhabitants
-- [[Hotan]]
+
+- [[hotan|Hotan]]
 - Mirrored versions of those who enter the hall (including Fakekorf, Fakekleb, and Fakerowan)
 - [[labyrinth-guardian|Heavy Peter]]
-- [[Puppetmaster|Puppetmasters]]
+- [[puppetmaster|Puppetmasters]]
 - Animated skeletons, including the [[skeleton-minotaur|skeleton minotaur]]

@@ -17,7 +17,7 @@ The events chronicled below predate the systematic records of other adventuring 
 
 ## An Escort Mission Goes Awry
 
-[[rulkorf-alpensinger|Rulkorf Alpensinger]], [[kleb-fumpton|Kleb Fumpton]], and [[rowan-chokrotsk|Rowan Chokrotsk]] first met in the city of [[Neverwinter]] when they were all hired by a pair of dwarves (the merchant [[gundren-rockseeker|Gundren Rockseeker]] and his head of security [[sildar-hallwinter|Sildar Hallwinter]]) to escort merchandise along the bandit-infested Triboar Trail. The dwarves wanted their valuable goods transported to the town of [[phandalin|Phandalin]], where they had a standing deal to sell merchandise to a local shopkeeper.
+[[rulkorf-alpensinger|Rulkorf Alpensinger]], [[kleb-fumpton|Kleb Fumpton]], and [[rowan-chokrotsk|Rowan Chokrotsk]] first met in the city of [[neverwinter|Neverwinter]] when they were all hired by a pair of dwarves (the merchant [[gundren-rockseeker|Gundren Rockseeker]] and his head of security [[sildar-hallwinter|Sildar Hallwinter]]) to escort merchandise along the bandit-infested Triboar Trail. The dwarves wanted their valuable goods transported to the town of [[phandalin|Phandalin]], where they had a standing deal to sell merchandise to a local shopkeeper.
 
 The first few days of travel were uneventful, but the party discovered the remains of a familiar cart on the road to [[phandalin|Phandalin]] and were ambushed by a pack of [[cragmaws|goblin bandits]]. They fought and killed all of the attackers, but not before interrogating the last one and discovering that [[gundren-rockseeker|Gundren]] had been abducted and taken to [[cragmaw-castle|Cragmaw Castle]].
 

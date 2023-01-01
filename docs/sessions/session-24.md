@@ -22,7 +22,7 @@ published: 2022-12-04
 - [[rowan-chokrotsk|Rowan]] also tries to shove a pirate into the ocean, and after failing, takes a moment to heal himself
 - The pirates continue their skirmish with the sailors
 - [[rulkorf-alpensinger|Rulkorf]] sends [[kleb-fumpton|Kleb]] a healing spirit, which the latter wears as a shawl, and sends a noxious poison cloud in the face of a pirate
-- The flying cutlasses come at [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] but both miss.  The enemy mage sends a blast of wind across the [[Oremaster]]'s deck
+- The flying cutlasses come at [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] but both miss.  The enemy mage sends a blast of wind across the [[oremaster|Oremaster]]'s deck
 
 ## Round 3
 - [[kleb-fumpton|Kleb]] cuts through the gust with his sword and stands his ground, before rushing to the stern of the ship and using the ballista bolt's tether to zipline down to the deck of the pirate ship. The poor unfortunate pirate at the other end meets the business end of [[kleb-fumpton|Kleb]]'s warhammer
@@ -46,5 +46,5 @@ published: 2022-12-04
 
 ## Round 6
 - [[kleb-fumpton|Kleb]] disperses the pirate witch's afterimages with a couple attacks, which let his warhammer strike true
-- [[rowan-chokrotsk|Rowan]] uses a bench on the [[Oremaster]]'s deck to vault the ball bearing trap he had laid earlier and comes to the aid of a sailor who is locked in combat with a pirate
+- [[rowan-chokrotsk|Rowan]] uses a bench on the [[oremaster|Oremaster]]'s deck to vault the ball bearing trap he had laid earlier and comes to the aid of a sailor who is locked in combat with a pirate
 - Despite the loss of their leader and the decimation of their ranks, the remaining pirates refuse to surrender
