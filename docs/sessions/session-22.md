@@ -22,7 +22,7 @@ published: 2022-11-20
     - [[rowan-chokrotsk|Rowan]] also received a slim masquerade mask when he entered, which the others don't have. [[kleb-fumpton|Kleb]] scrounges a discarded one for himself and convinces a guy in the bathroom to sell [[rulkorf-alpensinger|Rulkorf]] his mask
 - The boys hit the dance floor
   - [[rowan-chokrotsk|Rowan]] shares his smuggled-in alcohol and mingles, keeping everyone topped up
-  - [[rulkorf-alpensinger|Rulkorf]] turns into a crab and **raves**. The DJ loves it and starts transmogrifying people as they get into it
+  - [[rulkorf-alpensinger|Rulkorf]] turns into a crab and raves. The DJ loves it and starts transmogrifying people as they get into it
   - [[kleb-fumpton|Kleb]] chats up a girl and is led upstairs. He is super excited until he notices a pentagram drawn in blood on the floor of the bedroom
     - The girl closes the door behind [[kleb-fumpton|Kleb]] as he sees a bald figure in red robes with a symbol drawn on his forehead. The man magically paralyses [[kleb-fumpton|Kleb]]
     - The pentagram begins to glow as the robed man raises his hand and the cultist girl draws a dagger. [[kleb-fumpton|Kleb]] manages to escape the hold and turns the dagger back on its wielder, stabbing her once and then throwing it at the man (but missing)
@@ -33,7 +33,7 @@ published: 2022-11-20
   - At *Whap, Smack, and Clobber: Smiths at Forge*, a broad selection of bludgeoning implements greet [[kleb-fumpton|Kleb]]. He ultimately selects Doorknocker, a +1 warhammer with the ability to cast *Knock* once per day, trading in both [[toby-keith-blackbird|TK]]'s magic shortsword and his current warhammer
   - At *Ranger Equipment Incorporated*, [[rulkorf-alpensinger|Rulkorf]] tries on a set of enchanted ironwood (equivalent to a steel breastplate) but can't afford to upgrade quite yet. Damn vegan ranger hippies driving up the price of all the druid gear
     - [[rowan-chokrotsk|Rowan]] talks to the workers about the corporate structure of their collective and piques his interest in eventually transitioning to a workers' co-op
-  - At the *Scrolls on 8th*, [[kleb-fumpton|Kleb]] digs around in the bargain bin, hoping to get a  steal. He pays 5 gold for an offensive scroll, which turns out to be a copy of *Circle of Death*. It is likely defective or abnormal in some way (hence the discount), but it is not clear how
+  - At the *Scrolls on 8th*, [[kleb-fumpton|Kleb]] digs around in the bargain bin, hoping to get a steal. He pays 5 gold for an offensive scroll, which turns out to be a copy of *Circle of Death*. It is likely defective or abnormal in some way (hence the discount), but it is not clear how
     - [[rowan-chokrotsk|Rowan]] does similarly, looking for a utility spell. Tymora guides his hand to some type of enchantment spell, which appears to be a scroll of *Modify Memory*
 - The group walk over to *Pressing Matters*, the print shop, to see the state of [[kleb-fumpton|Kleb]]'s pamphlet order. 250 brand new pamphlets are ready for distribution and payment is rendered.
   - [[kleb-fumpton|Kleb]] hands some of them back to the proprietor and gives him some silver, encouraging him to spread them locally after [[the-party|the party]] leaves town.

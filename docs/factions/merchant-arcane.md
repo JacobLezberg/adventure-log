@@ -1,6 +1,6 @@
 ---
-title: merchant-arcane
-aliases: [merchant-arcane]
+title: Merchant Arcane
+aliases: [Merchant Arcane]
 tags: [faction]
 ---
 Magically-inclined mercenaries (sellstaves, if you will)

@@ -1,6 +1,6 @@
 ---
-title: oremaster
-aliases: [oremaster]
+title: Oremaster
+aliases: [Oremaster]
 tags: [faction]
 ---
 Lorem ipsum
