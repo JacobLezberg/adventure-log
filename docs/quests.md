@@ -13,7 +13,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
 - [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
 	- [x] Secure naval passage to reach the Candlekeep library in a reasonable amount of time
-	- [ ] Clear [[the-party|the party]] of the false accusations of the Waterdeep magistrate
+	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
 
 
 ## Mysteries/Questions
@@ -26,11 +26,12 @@ An informal record of [[the-party|The Party]]'s agenda.
   - [[rulkorf-alpensinger|Rulkorf]] and [[kleb-fumpton|Kleb]] believe the goblin attack may have been a false flag, and [[king-grohl|King Grohl]]'s client could have been aligned with the [[lozenge-azure|Lozenge Azure]] (or even [[lord-neverember|Lord Neverember]] himself)
 - Who designed/orchestrated the [[hall-of-mirrors|Hall of Mirrors]]? (and what does their symbol mean?)
 - Why have the lifeforces of the deceased recently tended to linger for a much shorter time in the world of the living (according to Match)?
+- Who is responsible for the attack on [[the-party|the party]] in [[waterdeep|Waterdeep]], and why do they want our adventurers dead?
 
 ## Other Rumors/Notes/Conspiracies
 
 - Recent increase in traffic at Candlekeep
-- Recent increase in outbound charters from Waterdeep
+- Recent increase in outbound charters from [[waterdeep|Waterdeep]]
 
 ## Completed Quests
 
