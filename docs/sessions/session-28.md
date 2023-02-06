@@ -25,4 +25,8 @@ published: 2023-01-22
 - With about one day left before departure, [[the-party|the party]] sets out to find the shipmonger so they can flip the Thunderbird for gold
 	- After making themselves conspicuous, the salesman finds them. With a trenchcoat full of magically scale-down (but real) ships in bottles, he follows [[the-party|the party]] to ships so they can give him a tour and he can make his own appraisal
 	- After negotiations, they settle on a price of 3,630 gold, which is delivered in trade bars and coins
-- With bursting pocketbooks and newly-restored status as non-criminals, [[the-party|the party]] makes a quick run to various shops around the city to pick up supplies
+- With bursting pocketbooks and newly-restored status as non-criminals, [[the-party|the party]] makes a quick run to various shops around the city to pick up supplies and new gear
+	- [[rulkorf-alpensinger|Rulkorf]] bought an ironwood breastplate, 2 Scrolls of Revivify, a Potion of Growth, and a Javelin of Lightning
+	- [[kleb-fumpton|Kleb]] purchased a Necklace of Fireballs (9 beads strong) as well as a new higher-caliber speargun, err...crossbow
+	- [[rowan-chokrotsk|Rowan]] got himself an Amulet of the Devout (+2) and Goggles of Night
+	- The group also offloaded some extra weapons and armor and sold the jewels and gems that they had acquired in the recent past, splitting the money

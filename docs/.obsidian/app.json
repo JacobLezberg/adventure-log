@@ -11,5 +11,8 @@
   "newFileLocation": "current",
   "strictLineBreaks": false,
   "attachmentFolderPath": "attachments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "templates/"
+  ]
 }
