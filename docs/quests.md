@@ -14,7 +14,8 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
 	- [x] Secure naval passage to reach the Candlekeep library in a reasonable amount of time
 	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
-
+- [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
+- [ ] Steal the Spellbook of Zarathustra from the Avorio Mansion
 
 ## Mysteries/Questions
 
