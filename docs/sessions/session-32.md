@@ -23,4 +23,4 @@ published: 2023-03-10
 	- *"In order to gain all knowledge, one must know where to start. Count on your enemies. This room is dedicated to the defeat of all within."*
 	- After they struggle for a bit, she reveals a revised statement: *In order to gain all knowledge, one must know where to start. **Count in your enemies, but not for their heart.** This room is dedicated to the defeat of all within.*
 	- The library seems dedicated to hunting and monster slaying, with books on different species and conditions. There are a number of paintings in the library, each depicting different monsters (17 total, split among 7 unique kinds). The number of each type of monster, used as an index into its name, selects a letter. This anagram can be solved for: OWLBEAR
-- With the answer written onparchment, a bookcase splits apart to reveal a set of hidden tomes
+- With the answer written on parchment, a bookcase splits apart to reveal a set of hidden tomes
