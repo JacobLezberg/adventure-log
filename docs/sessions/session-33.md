@@ -1,11 +1,11 @@
 ---
-title: 33 Episode Title
-aliases: [Session 33, Episode Title]
+title: 33 Sneakery, Stymied
+aliases: [Session 33, Sneakery, Stymied]
 tags: [session_notes, new_adventure]
 story_arc: New Adventure
 published: 2023-03-19
 ---
-# Episode Title
+# Sneakery, Stymied
 **2023-Mar-19**
 
 - The newly-revealed shelves appear to host tomes of a more occult nature (necromancy, communing with gods) as well as finances (marketing, shipping)
