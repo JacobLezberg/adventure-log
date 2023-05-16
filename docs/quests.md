@@ -15,7 +15,8 @@ An informal record of [[the-party|The Party]]'s agenda.
 	- [x] Secure naval passage to reach the Candlekeep library in a reasonable amount of time
 	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
 	- [ ] Get access to Candlekeep's repositories (by procuring valuable information)
-		- [ ] Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]
+		- [ ] ~~Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]~~
+		- [ ] Deliver the package to Candlekeep, as promised in exchange for the spellbook
 - [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
 
 

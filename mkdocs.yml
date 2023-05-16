@@ -36,11 +36,14 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+    
     features:
         - navigation.indexes
         - navigation.top
         - navigation.instant
         - navigation.tracking
+        - navigation.footer
+        - toc.follow
 
 # Extensions
 markdown_extensions:
@@ -102,5 +105,3 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/tooltipster.bundle.min.css
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
-extra:
-  generator: false
