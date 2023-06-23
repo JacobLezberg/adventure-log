@@ -38,3 +38,4 @@ Having experienced life in the forests, under the mountains, and on the open oce
 - [[toward-safer-arcane-research-and-development.pdf|Ring of Odd Evening]]
 - [[soul-lantern|Soul Lantern]] (with [[lantern-spirit|one remaining spirit]])
 - Ring of Telepathy
+- A fulgurite shard (Arcane Focus)

@@ -20,3 +20,4 @@ A human paladin, follower of Tymora, and champion of the common man. Rowan is 26
 - Shield with giant fricking spikes on it
 - Lightbringer mace
 - Purple armor taken from the defeated [[king-grohl|King Grohl]]
+- Rocket Sword
