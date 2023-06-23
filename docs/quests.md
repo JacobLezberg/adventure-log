@@ -16,7 +16,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
 	- [ ] Get access to Candlekeep's repositories (by procuring valuable information)
 		- [ ] ~~Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]~~
-		- [ ] Deliver the package to Candlekeep, as promised in exchange for the spellbook
+		- [ ] Deliver the package to Candlekeep, as promised, in exchange for the spellbook
 - [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
 
 
@@ -31,6 +31,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - Who designed/orchestrated the [[hall-of-mirrors|Hall of Mirrors]]? (and what does their symbol mean?)
 - Why have the lifeforces of the deceased recently tended to linger for a much shorter time in the world of the living (according to Match)?
 - Who is responsible for the attack on [[the-party|the party]] in [[waterdeep|Waterdeep]], and why do they want our adventurers dead?
+- Who is the man conducting human experiments/torture/sacrifice underneath Avorio Manor (and why does he have a Deva with him)?
 
 ## Other Rumors/Notes/Conspiracies
 
