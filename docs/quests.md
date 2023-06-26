@@ -11,13 +11,15 @@ An informal record of [[the-party|The Party]]'s agenda.
   - [x] Stop him from using the [[spellforge|Spellforge]] in [[wave-echo-cave|Wave Echo Cave]]
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
-- [ ] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
-	- [x] Secure naval passage to reach the Candlekeep library in a reasonable amount of time
-	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
-	- [ ] Get access to Candlekeep's repositories (by procuring valuable information)
-		- [ ] ~~Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]~~
-		- [ ] Deliver the package to Candlekeep, as promised, in exchange for the spellbook
 - [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
+- [ ] At Candlekeep, research the following
+	- [ ] Mirror Dimension (especially symbol)
+	- [ ] Assassin order (hitmen's weapons) from Waterdeep
+	- [ ] Rulkorf's assailant
+	- [ ] Lozenge Azure history
+	- [ ] Black Spider
+	- [ ] Robed man with the Deva
+	- [ ] Tomb of the Nine Gods
 
 
 ## Mysteries/Questions
@@ -49,3 +51,9 @@ An informal record of [[the-party|The Party]]'s agenda.
   - [x] Now that they've associated [[the-party|the party]] with the [[nothic|Nothic]], protect the manor
 - [x] Retrieve the stolen [[bag-of-holding|Bag of Holding]] from Lavender
 	- [x] Escape from the [[hall-of-mirrors|mirror dimension]]
+ - [x] Investigate the meaning of the [[hall-of-mirrors|mirror dimension]] symbol
+	- [x] Secure naval passage to reach the Candlekeep library in a reasonable amount of time
+	- [x] Clear [[the-party|the party]] of the false accusations of the [[waterdeep|Waterdeep]] magistrate
+	- [x] Get access to Candlekeep's repositories (by procuring valuable information)
+		- [ ] ~~Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]~~
+		- [x] Deliver the package to Candlekeep, as promised, in exchange for the spellbook
