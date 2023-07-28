@@ -21,5 +21,5 @@ published: 2023-06-25
 		3. The spellbook of Zarathustra
 	- She takes the materials and puts them in a delivery chute, and hands out library cards to [[the-party|the party]]
 	- The elf's special glasses also show her that [[rulkorf-alpensinger|Rulkorf]] has a hit out on him, but she can't see details. She assures him that he will be safe inside the keep
-- Having been granted access, [[the-party|the party]] pushes through the throngs in the courtyard and are met by a member of the Avowed, dressed in yellow robes of the god Oghma. [[the-party|The party]] memebrs are considered Seekers, and are not allowed past the Pillars of Pedagogy, through the Emerald Door, or into the stacks in the keep proper.
+- Having been granted access, [[the-party|the party]] pushes through the throngs in the courtyard and are met by a member of the Avowed, dressed in yellow robes of the god Oghma. [[the-party|The party]] members are considered Seekers, and are not allowed past the Pillars of Pedagogy, through the Emerald Door, or into the stacks in the keep proper.
 	- The amenities in the courtyard include an inn, bathhouse, and dining hall
