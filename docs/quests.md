@@ -11,14 +11,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
 - [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
-- [ ] At Candlekeep, research the following
-	- [ ] Mirror Dimension (especially symbol)
-	- [ ] Assassin order (hitmen's weapons) from Waterdeep
-	- [ ] Rulkorf's assailant
-	- [ ] Lozenge Azure history
-	- [ ] Black Spider
-	- [ ] Robed man with the Deva
-	- [ ] Tomb of the Nine Gods
+- [ ] Find the Soul Monger and the Tomb of the Nine Gods
 
 
 ## Mysteries/Questions
@@ -57,3 +50,12 @@ An informal record of [[the-party|The Party]]'s agenda.
 	- [x] Get access to Candlekeep's repositories (by procuring valuable information)
 		- [ ] ~~Steal the Spellbook of Zarathustra from the [[avorio-mansion|Avorio Mansion]]~~
 		- [x] Deliver the package to Candlekeep, as promised, in exchange for the spellbook
+- [x] At Candlekeep, research the following
+	- [x] Mirror Dimension (especially symbol)
+	- [ ] Assassin order (hitmen's weapons) from Waterdeep
+	- [ ] Rulkorf's assailant
+	- [ ] Lozenge Azure history
+	- [ ] Black Spider
+	- [ ] Robed man with the Deva
+	- [x] Tomb of the Nine Gods
+	- [x] Soul Lantern
