@@ -1,8 +1,8 @@
 ---
 title: 22 The Errant and Their Errands
 aliases: [Session 22, The Errant and Their Errands]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2022-11-20
 ---
 # The Errant and Their Errands

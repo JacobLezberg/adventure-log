@@ -1,8 +1,8 @@
 ---
 title: 38 The Great Library
 aliases: [Session 38, The Great Library]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-06-25
 ---
 # The Great Library

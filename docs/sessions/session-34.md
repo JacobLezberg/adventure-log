@@ -1,8 +1,8 @@
 ---
 title: 34 Hot Exit
 aliases: [Session 34, Hot Exit]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-04-02
 ---
 # Hot Exit

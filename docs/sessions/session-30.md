@@ -1,8 +1,8 @@
 ---
 title: 30 Thus Schemed Zarathustra
 aliases: [Session 30, Thus Schemed Zarathustra]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-02-11
 ---
 # Thus Schemed Zarathustra

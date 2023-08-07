@@ -1,8 +1,8 @@
 ---
 title: 23 Setting Sail Southward
 aliases: [Session 23, Setting Sail Southward]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2022-11-27
 ---
 # Setting Sail Southward

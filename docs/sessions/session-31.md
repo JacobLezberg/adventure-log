@@ -1,8 +1,8 @@
 ---
 title: 31 A Foot in the Door
 aliases: [Session 31, A Foot in the Door]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-02-26
 ---
 # A Foot in the Door

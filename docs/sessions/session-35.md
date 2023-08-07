@@ -1,8 +1,8 @@
 ---
 title: 35 Warthog Run
 aliases: [Session 35, Warthog Run]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-04-09
 ---
 # Warthog Run

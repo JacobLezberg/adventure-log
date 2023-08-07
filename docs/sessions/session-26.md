@@ -1,8 +1,8 @@
 ---
 title: 26 One Crime Begets Another
 aliases: [Session 26, One Crime Begets Another]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2022-12-30
 ---
 # One "Crime" Begets Another

@@ -1,8 +1,8 @@
 ---
 title: 33 Sneakery, Stymied
 aliases: [Session 33, Sneakery, Stymied]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-03-19
 ---
 # Sneakery, Stymied

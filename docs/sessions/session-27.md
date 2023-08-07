@@ -1,8 +1,8 @@
 ---
 title: 27 Old Men and the Sea
 aliases: [Session 27, Old Men and the Sea]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-01-15
 ---
 # Old Men and the Sea

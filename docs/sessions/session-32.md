@@ -1,8 +1,8 @@
 ---
 title: 32 Bookcasing the Joint
 aliases: [Session 32, Bookcasing the Joint]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-03-10
 ---
 # Bookcasing the Joint

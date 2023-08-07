@@ -1,8 +1,8 @@
 ---
 title: 28 Flipping the Ship
 aliases: [Session 28, Flipping the Ship]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-01-22
 ---
 # Flipping the Ship

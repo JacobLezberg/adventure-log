@@ -1,8 +1,8 @@
 ---
 title: 37 Loose Ends
 aliases: [Session 37, Loose Ends]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-06-18
 ---
 # Loose Ends

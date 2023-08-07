@@ -1,8 +1,8 @@
 ---
 title: 24 An Ambush Repulsed
 aliases: [Session 24, An Ambush Repulsed]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2022-12-04
 ---
 # An Ambush Repulsed

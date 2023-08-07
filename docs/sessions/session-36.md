@@ -1,8 +1,8 @@
 ---
 title: 36 Let's Make a Deal
 aliases: [Session 36, Let's Make a Deal]
-tags: [session_notes, new_adventure]
-story_arc: New Adventure
+tags: [session_notes, pursuit_of_knowledge]
+story_arc: Pursuit of Knowledge
 published: 2023-05-13
 ---
 # Let's Make a Deal
