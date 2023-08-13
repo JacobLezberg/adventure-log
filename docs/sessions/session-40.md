@@ -26,4 +26,4 @@ published: 2023-07-29
 		- The Soul Monger was last seen in the city of Omu a few hundred years ago in the Tomb of the Nine Gods. No one knows why things would have changed recently
 		- Both the [[zentarum|Zentarum]] and the Red Wizards of Thay are also hunting for the Tomb and Soul Monger
 - The archmage wants [[the-party|the party]] to locate and help deactivate or destroy the Soul Monger. In exchange, they receive VIP access to the Inner Sanctum and Archives of [[candlekeep|Candlekeep]], a magical item, and a reserved parking spot
-	- They agree to terms to be teleported to Port Nyanzaru on the island of Chult, far to the south
+	- They agree to terms to be teleported to Port Nyranzaru on the island of Chult, far to the south

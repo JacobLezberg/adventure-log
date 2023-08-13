@@ -36,6 +36,7 @@ GROUP BY story_arc AS arc
 SORT choice(arc = "The Lost Mine of Phandelver", "1",
 	choice(arc = "The Lozenge Azure", "2",
 	choice(arc = "The Mirror Realm", "3",
-	"other")))
+	choice(arc = "Pursuit of Knowledge", "4",
+	"other"))))
 ```
 ---
