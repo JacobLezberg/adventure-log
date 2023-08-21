@@ -13,7 +13,7 @@ A human paladin, follower of Tymora, and champion of the common man. Rowan is 26
 - Subclass: Oath of Conquest
 
 ### Feats:
-- Lorem ipsum
+- Shadow-Touched
 
 ## Special Possessions
 - A bajillion blessed ball bearings

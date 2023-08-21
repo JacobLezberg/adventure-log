@@ -28,6 +28,7 @@ Having experienced life in the forests, under the mountains, and on the open oce
 
 ### Feats:
 - Observant
+- Skill Expert
 
 ## Special Possessions
 - [[glasstaff|Glasstaff]]'s namesake Staff of Magic Missiles
