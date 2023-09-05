@@ -27,7 +27,7 @@ published: 2023-08-12
   - Merchant Prince O'tamu is sympathetic to [[harpers|the Harpers]], and by extension the Avowed, but the other merchant princes should not be trusted
   - Hire a guide before venturing into the jungle, for your own safety
   - The Flaming Fist mercenary company is here to protect Baldur's Gate's interests and are contracted by the merchant princes to supplement the city watch
-    - Should be extra wary of the Red Wizards of Thay, who are a group of necromancers led by a lich, the [[zentarum|Zentarum]], Frost Giants who are hunting for someone with a Ring of Winter, the Order of the Gauntlet, a bunch of northern crusaders who are trying to clear out the undead from the jungle
+    - Should be extra wary of the Red Wizards of Thay, who are a group of necromancers led by a lich, the [[the-zentarum|Zentarum]], Frost Giants who are hunting for someone with a Ring of Winter, the Order of the Gauntlet, a bunch of northern crusaders who are trying to clear out the undead from the jungle
   - A note from the past expeditionary group says "Come wash your beard" with a location of a tavern by the pier (the Anchor's Rest in the Harbor Ward)
 - [[kleb-fumpton|Kleb]] is designated the group's comms officer and exchanges information with Pelenor so that their familiarity can enable future uses of Sending
 - Oh and by the way, the city has secret police. People have disappeared

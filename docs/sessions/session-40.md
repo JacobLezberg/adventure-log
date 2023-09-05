@@ -25,6 +25,6 @@ published: 2023-07-29
     - The Death Curse, she explains, affects those who have been revivified or resurrected. An artifact called the Soul Monger is very likely being employed to intercept souls traveling between the Material Plane and the afterlife
     - Acererak is the most powerful archlich in the entire multiverse, on par with gods. He is not just a legend made up to scare children, but apparently is real and crated the Soul Monger
     - The Soul Monger was last seen in the city of Omu a few hundred years ago in the Tomb of the Nine Gods. No one knows why things would have changed recently
-    - Both the [[zentarum|Zentarum]] and the Red Wizards of Thay are also hunting for the Tomb and Soul Monger
+    - Both the [[the-zentarum|Zentarum]] and the Red Wizards of Thay are also hunting for the Tomb and Soul Monger
 - The archmage wants [[the-party|the party]] to locate and help deactivate or destroy the Soul Monger. In exchange, they receive VIP access to the Inner Sanctum and Archives of [[candlekeep|Candlekeep]], a magical item, and a reserved parking spot
   - They agree to terms to be teleported to Port Nyanzaru on the island of Chult, far to the south

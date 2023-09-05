@@ -23,12 +23,12 @@ published: 2023-08-27
 	- Drag [[beezer-twelve-washingbeard|Beezer]] back, combat ends
 - Search bodies, reconvene
 - Bring unconscious (but visible) [[beezer-twelve-washingbeard|Beezer]] along with the unconscious assailant with [[the-party|the party]] back to the hotel, passing by the dry docks, warehouse district, and into the Market Ward
-	- [[rulkorf-alpensinger|Rulkorf]] [[bag-of-holding|bag of holding]] food run, spends the money lifted from the attackers
+	- [[rulkorf-alpensinger|Rulkorf]] takes the [[bag-of-holding|Bag of Holding]] for a food run, spends the money lifted from the attackers
 	- [[rowan-chokrotsk|Rowan]] and [[kleb-fumpton|Kleb]] interrogate the man in their room at Kaya's with little luck. The man seems to already consider himself dead, and actively prefers death to answering questions
 		- Once [[rulkorf-alpensinger|Rulkorf]] returns, the group realizes that the man saying he already died was literal, not figurative. Patches of his skin are gray and withering, and he evidently is being plagued by the Death Curse
 		- Upon being informed that [[the-party|the party]] is working to solve his condition, the man finally starts to open up a bit. Over the course of a lengthy back-and-forth, the leper provides the following:
-			- The [[zentarum|Zentarum]] took him in as, as they did his companions, and cared for him in return for completing simple jobs and following orders
-			- His handler is a man who goes by the name/title of Boss Nero. Nero is not directly or openly tied to the [[zentarum|Zentarum]], but instructions flow through him to all the agents who have been set loose. He is holed up in the Old City somewhere
-- [[kleb-fumpton|Kleb]] visits Thiel upstairs and informs him of the [[zentarum|Zentarum]] agent they have tied up. The wizard agrees to take custody of the man. He also reminds [[kleb-fumpton|Kleb]] that at the Temple of Savras [[the-party|the party]] could find Grandfather Sitimbe, who is a useful local contact
+			- The [[the-zentarum|Zentarum]] took him in as, as they did his companions, and cared for him in return for completing simple jobs and following orders
+			- His handler is a man who goes by the name/title of Boss Nero. Nero is not directly or openly tied to the [[the-zentarum|Zentarum]], but instructions flow through him to all the agents who have been set loose. He is holed up in the Old City somewhere
+- [[kleb-fumpton|Kleb]] visits Thiel upstairs and informs him of the [[the-zentarum|Zentarum]] agent they have tied up. The wizard agrees to take custody of the man. He also reminds [[kleb-fumpton|Kleb]] that at the Temple of Savras [[the-party|the party]] could find Grandfather Sitimbe, who is a useful local contact
 	- The leper also tells his interrogators that they could potentially obtain a guide by waiting for an audience with a Merchant Prince
 	- Thiel teleports the leper away, and after a brief conversation, sends the trio away once more

@@ -1,5 +1,5 @@
 ---
-title: zentarum
+title: The Zentarum
 aliases: [Zentarum]
 tags: [faction]
 ---

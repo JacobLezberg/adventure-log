@@ -1,6 +1,6 @@
 ---
 title: 21 Big City Life
-aliases: [Session 21, Episode Title]
+aliases: [Session 21, Big City Life]
 tags: [session_notes, pursuit_of_knowledge]
 story_arc: Pursuit of Knowledge
 published: 2022-11-13

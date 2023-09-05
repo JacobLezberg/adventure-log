@@ -12,7 +12,7 @@ published: 2023-06-18
 	- [[kleb-fumpton|Kleb]] spreads a new round of pamphlets around Baldur's Gate
 		- The three new recruits from the manor are tasked with setting up a satellite office in the city for the [[lozenge-gules|Lozenge Gules]]. One of them is apparently familiar with the Tome of the [[orange-theory|Orange Theory]] and thinks there might be a chance for an alliance between the organizations
 	- [[fallon|Fallon]] notes that he hasn't been able to contact [[sister-garaele|Garaele]] for a while now, but none of the trio have heard from her either
-	- He also asks them to steer clear of any folks bearing a winged-snake insignia, because they are members of the [[zentarum|Zentarum]]
+	- He also asks them to steer clear of any folks bearing a winged-snake insignia, because they are members of the [[the-zentarum|Zentarum]]
 - [[rulkorf-alpensinger|Rulkorf]] hangs around the docks, listening out for rumors and gossip regarding the [[avorio-mansion|Avorio manor]] fire, but no one seems to really care. [[rowan-chokrotsk|Rowan]] spies on the manor itself, but nothing of note happens besides the occasional guard and a delivery of provisions
 	- [[kleb-fumpton|Kleb]] spends time training the new recruits but quickly realizes that they respond well to positive reinforcement over intimidation
 	- [[rulkorf-alpensinger|Rulkorf]] heads down to the beach and does some research to scope out some promising spots for lightning strikes. At twilight on the second day, at high tide, the druid calls down lightning, succesfully evading the city guard and retrieving one piece of fulgurite
