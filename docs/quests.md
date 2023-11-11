@@ -10,7 +10,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find and kill [[black-spider|The Black Spider]]
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
-- [ ] Figure out the circumstances around the attack on [[rulkorf-alpensinger|Rulkorf]] (Assailant? Motive?)
+- [ ] Figure out how to free [[rulkorf-alpensinger|Rulkorf]] from his attacker
 - [ ] Find the Soul Monger and the Tomb of the Nine Gods
 	- [ ] Find a guide who can take the party out into the jungle
 
