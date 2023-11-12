@@ -1,7 +1,7 @@
 ---
-title: 46 Episode Title
+title: 46 The Wizard and Oz
 aliases:
-  - Episode Title
+  - The Wizard and Oz
   - Session 46
 tags:
   - session_notes
@@ -9,7 +9,7 @@ tags:
 story_arc: New Adventure
 published: 2023-11-05
 ---
-# Episode Title
+# The Wizard and Oz
 **2023-Nov-05**
 
 - In order to aid Father Sitimbe's scrying, the party searches for something of more emotional value to Oz, but are unable to procure anything beyond the maps and some smut.
