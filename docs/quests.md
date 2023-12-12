@@ -13,6 +13,8 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Figure out how to free [[rulkorf-alpensinger|Rulkorf]] from his attacker
 - [ ] Find the Soul Monger and the Tomb of the Nine Gods
 	- [ ] Find a guide who can take the party out into the jungle
+- [ ] Find Ozamataz Buckshank in the jungle
+	- [ ] Reach Camp Vengeance
 
 ## Mysteries/Questions
 
