@@ -1,7 +1,14 @@
 ---
 title: Rowan Chokrotsk
-aliases: [Rowan, Rowan Chokrotsk]
-tags: [Shivam, pc, player]
+aliases:
+  - Rowan
+  - Rowan Chokrotsk
+  - Ball Bearing Baron
+  - Baron of Ball Bearings
+tags:
+  - Shivam
+  - pc
+  - player
 ---
 A human paladin, follower of Tymora, and champion of the common man. Rowan is 26 years old. He is a cart guy
 
@@ -21,3 +28,4 @@ A human paladin, follower of Tymora, and champion of the common man. Rowan is 26
 - Lightbringer mace
 - Purple armor taken from the defeated [[king-grohl|King Grohl]]
 - Rocket Sword
+- [[toward-safer-arcane-research-and-development.pdf|Ring of Odd Evening]]

@@ -29,6 +29,7 @@ Having experienced life in the forests, under the mountains, and on the open oce
 ### Feats:
 - Observant
 - Skill Expert
+- Keen Mind
 
 ## Special Possessions
 - [[glasstaff|Glasstaff]]'s namesake Staff of Magic Missiles
@@ -36,7 +37,6 @@ Having experienced life in the forests, under the mountains, and on the open oce
 - Shard of obsidian that is perpetually warm (Lucky Trinket)
 - [[manta-ray-cloak|Manta Ray Cloak]] (inhabited by the spirit of [[gil|Gil]])
 - Shield of Arrow-Catching
-- [[toward-safer-arcane-research-and-development.pdf|Ring of Odd Evening]]
 - [[soul-lantern|Soul Lantern]] (with [[lantern-spirit|one remaining spirit]])
 - Ring of Telepathy
 - A fulgurite shard (Arcane Focus)
