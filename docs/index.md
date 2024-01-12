@@ -9,7 +9,7 @@ Please see the GitHub repo for instructions on how to download ObsidianMD and vi
 # Open Quests
 ```dataview
 TASK FROM ""
-WHERE !completed
+WHERE header = [[quests#Objectives]]
 GROUP BY "" as "Open Quests"
 ```
 ---
