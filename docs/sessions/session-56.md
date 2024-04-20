@@ -9,7 +9,7 @@ tags:
 story_arc: New Adventure
 published: 2024-03-22
 ---
-# Hostage Rescure, Fallen Comrade
+# Hostage Rescue, Fallen Comrade
 **2024-Mar-22**
 
 - Short rest to recuperate
