@@ -10,11 +10,14 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Find and kill [[black-spider|The Black Spider]]
 - [ ] Find Wexton and send him back to his wife Halia in [[phandalin|Phandalin]]
 - [ ] Deal with [[king-grohl|King Grohl's]] return, and his mysterious client
-- [ ] Figure out how to free [[rulkorf-alpensinger|Rulkorf]] from his attacker
-- [ ] Find the Soul Monger and the Tomb of the Nine Gods
-	- [ ] Find a guide who can take the party out into the jungle
-- [ ] Find Ozamataz Buckshank in the jungle
-	- [ ] Reach Camp Vengeance
+- [ ] Figure out how to deal with the entity stalking [[rulkorf-alpensinger|Rulkorf]]
+- [ ] Destroy the Soul Monger
+	- [x] Find a guide who can take the party out into the jungle
+	- [ ] Find Ozamataz Buckshank in the jungle
+		- [ ] Reach Camp Vengeance
+	- [ ] Locate the Tomb of the Nine Gods
+	- [ ] Defeat the Lich or whoever is using the artifact
+- [ ] Revive Beezer Twelve Washingbeard
 
 ## Mysteries/Questions
 
@@ -28,11 +31,11 @@ An informal record of [[the-party|The Party]]'s agenda.
 - Why have the lifeforces of the deceased recently tended to linger for a much shorter time in the world of the living (according to Match)?
 - Who is responsible for the attack on [[the-party|the party]] in [[waterdeep|Waterdeep]], and why do they want our adventurers dead?
 - Who is the man conducting human experiments/torture/sacrifice underneath Avorio Manor (and why does he have a Deva with him)?
+- Is there an active factory inside the Chultian jungle creating guardian automatons?
 
 ## Other Rumors/Notes/Conspiracies
 
-- Recent increase in traffic at Candlekeep
-- Recent increase in outbound charters from [[waterdeep|Waterdeep]]
+- TBD
 
 ## Completed Quests
 

@@ -1,15 +1,15 @@
 ---
-title: 59 Episode Title
+title: 59 Unforced Errors
 aliases:
   - Session 59
-  - Episode Title
+  - Unforced Errors
 tags:
   - session_notes
   - new_adventure
 story_arc: New Adventure
 published: 2024-08-02
 ---
-# Episode Title
+# Unforced Errors
 **2024-Aug-02**
 
 - The central food storehouse is on fire

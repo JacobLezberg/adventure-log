@@ -1,7 +1,12 @@
 ---
 title: 08 Face to Face
-aliases: [Session 8, Face to Face]
-tags: [session_notes, lozenge_azure]
+aliases:
+  - Session 8
+  - Face to Face
+tags:
+  - session_notes
+  - lozenge_azure
+  - in_person_session
 story_arc: The Lozenge Azure
 published: 2022-07-25
 ---

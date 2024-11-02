@@ -6,6 +6,7 @@ aliases:
 tags:
   - session_notes
   - new_adventure
+  - in_person_session
 story_arc: New Adventure
 published: 2024-01-06
 ---

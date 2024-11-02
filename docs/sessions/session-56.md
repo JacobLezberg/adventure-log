@@ -1,8 +1,8 @@
 ---
-title: 56 Hostage Rescure, Fallen Comrade
+title: 56 Hostage Rescue, Fallen Comrade
 aliases:
   - Session 56
-  - Hostage Rescure, Fallen Comrade
+  - Hostage Rescue, Fallen Comrade
 tags:
   - session_notes
   - new_adventure
