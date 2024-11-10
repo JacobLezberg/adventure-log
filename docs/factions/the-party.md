@@ -10,6 +10,7 @@ That's us! Name to be determined...
 - [[rowan-chokrotsk|Rowan Chokrotsk]], human paladin of Tymora
 - [[kleb-fumpton|Kleb Fumpton]], human fighter
 
-## Other Members
+## Allies
 - [[fallon|Fallon]] (joined in [[phandalin|Phandalin]] during the race to the [[spellforge|Spellforge]])
-- Gil
+- Gil (entity inside Rulkorf's Cloak of the Manta Ray)
+- Eugene (senior citizen who survived the sinking of Big Mona's Jackpot)
