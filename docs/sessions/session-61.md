@@ -40,4 +40,3 @@ published: 2024-11-09
 		- He later frees Kleb from his paralysis before taking cover behind a pillar
 	- Kleb unleashes a flurry of attack on the monster, focusing on its necrotic beam stalk, and succeeds in cutting it off
 		- In retaliation, a different beam is fired at him, but is deflected into a pillar instead. The column dissolves into fine grain dust
-	- 

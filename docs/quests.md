@@ -13,6 +13,7 @@ An informal record of [[the-party|The Party]]'s agenda.
 - [ ] Figure out how to deal with the entity stalking [[rulkorf-alpensinger|Rulkorf]]
 - [ ] Destroy the Soul Monger
 	- [x] Find a guide who can take the party out into the jungle
+	- [ ] Complete Acererak's mansion of trials
 	- [ ] Find Ozamataz Buckshank in the jungle
 		- [ ] Reach Camp Vengeance
 	- [ ] Locate the Tomb of the Nine Gods
