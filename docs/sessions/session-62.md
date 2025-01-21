@@ -9,7 +9,7 @@ tags:
 story_arc: New Adventure
 published: 2025-01-11
 ---
-# Episode Title
+# The Sandman
 **2025-Jan-11**
 
 - Still in combat with the Beholder, Kleb gets paralyzed, Rowan gets charmed, and Eugene approaches menacingly
