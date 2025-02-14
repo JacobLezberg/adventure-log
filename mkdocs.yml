@@ -91,7 +91,7 @@ plugins:
   - mermaid2
   - awesome-pages
   # - tooltipster-links
-  # - embed_file
+  - embed_file
 extra_javascript:
   - assets/js/mathjax.js
   - assets/js/utils.js
