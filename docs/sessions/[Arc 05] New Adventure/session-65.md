@@ -1,18 +1,16 @@
 ---
-title: 65 An Adventurer's Worst Day is My Life
+title: 65 Past Trauma
 aliases:
   - Session 65
-  - An Adventurer's Worst Day is My Life
+  - Past Trauma
 tags:
   - session_notes
   - new_adventure
 story_arc: New Adventure
 published: 2025-03-14
 ---
-# An Adventurer's Worst Day is My Life
+# Past Trauma
 **2025-Mar-14**
-
-*And we did it voluntarily...*
 
 - Horror Room
 	- A wild intro physics problem set appeared. Emotional damage, psychic damage, PTSD, all at once.
@@ -27,3 +25,4 @@ published: 2025-03-14
 	- Rulkorf tries to strip the creature of some of its elemental resistance, but it shrugs off the magic. Rowan creates a spell circle covering most of the room, trapping the creature and insulating the party from being charmed or possessed
 	- Kleb lands a couple solid blows but in his frenzy jams his sword between the lid and body of the desk. He manages to wrench it back, and notices the rune on its flat has changed from Exossis to Exlignum. With one final attack, Kleb vanquishes the creature and sends it back into the desk
 - Rowan tries to repoen the lid of the desk immediately, taking psychic damage from contact with the hand that shoots out before Kleb chops it off
+- The party is not aware, but Kleb is hit by some sort of energy blast right at the end of the encounter
