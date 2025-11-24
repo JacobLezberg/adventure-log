@@ -1,7 +1,14 @@
 ---
 title: Calibur
-aliases: [Calibur, Exossis, Swordhammer, Hammersword]
-tags: [item, equipment]
+aliases:
+  - Calibur
+  - Exossis
+  - Swordhammer
+  - Hammersword
+  - Exlignum
+tags:
+  - item
+  - equipment
 ---
 ![[calibur-image.jpg|150]]
 
